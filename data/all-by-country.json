@@ -1401,34 +1401,6 @@
             ]
         },
         {
-            "id": "2511092",
-            "channel": "VIP Sky Sports Premier League FHD",
-            "link": "https://list.iptvcat.com/my_list/s/1e1a2b6dbe9c8944749cdd1c824b99d6.m3u8",
-            "country": "united kingdom",
-            "liveliness": "88",
-            "status": "online",
-            "lastChecked": "2022-05-20T00:00:00Z",
-            "format": "sd",
-            "mbps": "2334",
-            "URI": [
-                "united_kingdom_-_-_-_-_-_-_-_-"
-            ]
-        },
-        {
-            "id": "2511048",
-            "channel": "VIP Sky Witness FHD",
-            "link": "https://list.iptvcat.com/my_list/s/e33d6be71732c1db9889891c06cc763d.m3u8",
-            "country": "united kingdom",
-            "liveliness": "88",
-            "status": "online",
-            "lastChecked": "2022-05-20T00:00:00Z",
-            "format": "fhd 2k",
-            "mbps": "7004",
-            "URI": [
-                "united_kingdom_-_-_-_-_-_-_-_-"
-            ]
-        },
-        {
             "id": "2511044",
             "channel": "VIP SyFy FHD",
             "link": "https://list.iptvcat.com/my_list/s/b3da4650d59fbb3646702999dc524e46.m3u8",
@@ -1578,34 +1550,6 @@
             "lastChecked": "2022-05-20T00:00:00Z",
             "format": "sd",
             "mbps": "1509",
-            "URI": [
-                "united_kingdom_-_-_-_-_-_-_-_-"
-            ]
-        },
-        {
-            "id": "2510823",
-            "channel": "Universal Channel HD",
-            "link": "https://list.iptvcat.com/my_list/s/92467e7dabcfb46b2056bcd477caef11.m3u8",
-            "country": "united kingdom",
-            "liveliness": "75",
-            "status": "online",
-            "lastChecked": "2022-05-20T00:00:00Z",
-            "format": "hd",
-            "mbps": "5020",
-            "URI": [
-                "united_kingdom_-_-_-_-_-_-_-_-"
-            ]
-        },
-        {
-            "id": "2530739",
-            "channel": "VH1",
-            "link": "https://list.iptvcat.com/my_list/s/6100e42ef460e0493700faf0f8ac8713.m3u8",
-            "country": "united kingdom",
-            "liveliness": "73",
-            "status": "offline",
-            "lastChecked": "2022-05-20T00:00:00Z",
-            "format": "sd",
-            "mbps": "2331",
             "URI": [
                 "united_kingdom_-_-_-_-_-_-_-_-"
             ]
@@ -2983,15 +2927,29 @@
             ]
         },
         {
-            "id": "2547497",
-            "channel": "UK_BT_Sport_Extra_2",
-            "link": "https://list.iptvcat.com/my_list/s/5580a32f8950fa4736f27d9154a25e26.m3u8",
+            "id": "2511092",
+            "channel": "VIP Sky Sports Premier League FHD",
+            "link": "https://list.iptvcat.com/my_list/s/1e1a2b6dbe9c8944749cdd1c824b99d6.m3u8",
             "country": "united kingdom",
-            "liveliness": "93",
-            "status": "offline",
+            "liveliness": "88",
+            "status": "online",
             "lastChecked": "2022-05-20T00:00:00Z",
             "format": "sd",
             "mbps": "2334",
+            "URI": [
+                "united_kingdom_-_-_-_-_-_-_-_-"
+            ]
+        },
+        {
+            "id": "2511048",
+            "channel": "VIP Sky Witness FHD",
+            "link": "https://list.iptvcat.com/my_list/s/e33d6be71732c1db9889891c06cc763d.m3u8",
+            "country": "united kingdom",
+            "liveliness": "88",
+            "status": "online",
+            "lastChecked": "2022-05-20T00:00:00Z",
+            "format": "fhd 2k",
+            "mbps": "7004",
             "URI": [
                 "united_kingdom_-_-_-_-_-_-_-_-"
             ]
@@ -4229,20 +4187,6 @@
             ]
         },
         {
-            "id": "2547492",
-            "channel": "UK_UFC_FIGHT_PASS",
-            "link": "https://list.iptvcat.com/my_list/s/0b83c8ae8e4cfa677cb742ebae832299.m3u8",
-            "country": "united kingdom",
-            "liveliness": "77",
-            "status": "offline",
-            "lastChecked": "2022-05-20T00:00:00Z",
-            "format": "sd",
-            "mbps": "1509",
-            "URI": [
-                "united_kingdom_-_-_-_-_-_-_-_-"
-            ]
-        },
-        {
             "id": "2547412",
             "channel": "UK_UTV_HD",
             "link": "https://list.iptvcat.com/my_list/s/82c58f5956fc67d13d5f53b8517bc12a.m3u8",
@@ -4378,6 +4322,34 @@
             "lastChecked": "2022-05-19T00:00:00Z",
             "format": "hd",
             "mbps": "3188",
+            "URI": [
+                "united_kingdom_-_-_-_-_-_-_-_-"
+            ]
+        },
+        {
+            "id": "2510823",
+            "channel": "Universal Channel HD",
+            "link": "https://list.iptvcat.com/my_list/s/92467e7dabcfb46b2056bcd477caef11.m3u8",
+            "country": "united kingdom",
+            "liveliness": "75",
+            "status": "online",
+            "lastChecked": "2022-05-20T00:00:00Z",
+            "format": "hd",
+            "mbps": "5020",
+            "URI": [
+                "united_kingdom_-_-_-_-_-_-_-_-"
+            ]
+        },
+        {
+            "id": "2530739",
+            "channel": "VH1",
+            "link": "https://list.iptvcat.com/my_list/s/6100e42ef460e0493700faf0f8ac8713.m3u8",
+            "country": "united kingdom",
+            "liveliness": "73",
+            "status": "offline",
+            "lastChecked": "2022-05-20T00:00:00Z",
+            "format": "sd",
+            "mbps": "2331",
             "URI": [
                 "united_kingdom_-_-_-_-_-_-_-_-"
             ]
@@ -5573,20 +5545,6 @@
             ]
         },
         {
-            "id": "2537455",
-            "channel": "UK FHD  Syfy",
-            "link": "https://list.iptvcat.com/my_list/s/5cccae5726d0d8848bef58a5992bd4bd.m3u8",
-            "country": "united kingdom",
-            "liveliness": "21",
-            "status": "offline",
-            "lastChecked": "2022-05-20T00:00:00Z",
-            "format": "fhd 2k",
-            "mbps": "7004",
-            "URI": [
-                "united_kingdom_-_-_-_-_-_-_-_-"
-            ]
-        },
-        {
             "id": "2547502",
             "channel": "UK_4_Seven_HD",
             "link": "https://list.iptvcat.com/my_list/s/1fd5e5fc70e861013136c791cd1828d9.m3u8",
@@ -5778,6 +5736,20 @@
             "lastChecked": "2022-05-20T00:00:00Z",
             "format": "hd",
             "mbps": "5020",
+            "URI": [
+                "united_kingdom_-_-_-_-_-_-_-_-"
+            ]
+        },
+        {
+            "id": "2547497",
+            "channel": "UK_BT_Sport_Extra_2",
+            "link": "https://list.iptvcat.com/my_list/s/5580a32f8950fa4736f27d9154a25e26.m3u8",
+            "country": "united kingdom",
+            "liveliness": "93",
+            "status": "offline",
+            "lastChecked": "2022-05-20T00:00:00Z",
+            "format": "sd",
+            "mbps": "2334",
             "URI": [
                 "united_kingdom_-_-_-_-_-_-_-_-"
             ]
@@ -12573,20 +12545,6 @@
             ]
         },
         {
-            "id": "2537455",
-            "channel": "UK FHD  Syfy",
-            "link": "https://list.iptvcat.com/my_list/s/5cccae5726d0d8848bef58a5992bd4bd.m3u8",
-            "country": "united kingdom",
-            "liveliness": "21",
-            "status": "offline",
-            "lastChecked": "2022-05-20T00:00:00Z",
-            "format": "fhd 2k",
-            "mbps": "7004",
-            "URI": [
-                "united_kingdom_-_-_-_-_-_-_-_-"
-            ]
-        },
-        {
             "id": "2547502",
             "channel": "UK_4_Seven_HD",
             "link": "https://list.iptvcat.com/my_list/s/1fd5e5fc70e861013136c791cd1828d9.m3u8",
@@ -14024,20 +13982,6 @@
             "lastChecked": "2022-05-20T00:00:00Z",
             "format": "hd",
             "mbps": "3795",
-            "URI": [
-                "united_kingdom_-_-_-_-_-_-_-_-"
-            ]
-        },
-        {
-            "id": "2547492",
-            "channel": "UK_UFC_FIGHT_PASS",
-            "link": "https://list.iptvcat.com/my_list/s/0b83c8ae8e4cfa677cb742ebae832299.m3u8",
-            "country": "united kingdom",
-            "liveliness": "77",
-            "status": "offline",
-            "lastChecked": "2022-05-20T00:00:00Z",
-            "format": "sd",
-            "mbps": "1509",
             "URI": [
                 "united_kingdom_-_-_-_-_-_-_-_-"
             ]
