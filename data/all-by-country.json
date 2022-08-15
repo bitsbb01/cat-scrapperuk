@@ -51,7 +51,7 @@
             "status": "online",
             "lastChecked": "2022-08-15T00:00:00Z",
             "format": "sd",
-            "mbps": "1796",
+            "mbps": "2285",
             "URI": [
                 "united_kingdom_-_-_-_-_-_-_-_-_-"
             ]
@@ -89,7 +89,7 @@
             "channel": "ANIMAL PLANET",
             "link": "https://list.iptvcat.com/my_list/s/d32df8c705fa7afa89511144135779be.m3u8",
             "country": "united kingdom",
-            "liveliness": "67",
+            "liveliness": "50",
             "status": "offline",
             "lastChecked": "2022-08-15T00:00:00Z",
             "format": "sd",
@@ -173,8 +173,8 @@
             "channel": "At The Races",
             "link": "https://list.iptvcat.com/my_list/s/150d1241413f352e562a7a07599b868a.m3u8",
             "country": "united kingdom",
-            "liveliness": "100",
-            "status": "online",
+            "liveliness": "50",
+            "status": "offline",
             "lastChecked": "2022-08-15T00:00:00Z",
             "format": "sd",
             "mbps": "1479",
@@ -204,8 +204,8 @@
             "liveliness": "100",
             "status": "online",
             "lastChecked": "2022-08-15T00:00:00Z",
-            "format": "sd",
-            "mbps": "2334",
+            "format": "fhd 2k",
+            "mbps": "7004",
             "URI": [
                 "united_kingdom_-_-_-_-_-_-_-_-_-"
             ]
@@ -260,8 +260,8 @@
             "liveliness": "100",
             "status": "online",
             "lastChecked": "2022-08-15T00:00:00Z",
-            "format": "hd",
-            "mbps": "6241",
+            "format": "fhd 2k",
+            "mbps": "7004",
             "URI": [
                 "united_kingdom_-_-_-_-_-_-_-_-_-"
             ]
@@ -323,6 +323,20 @@
             ]
         },
         {
+            "id": "1340305",
+            "channel": "BBC Arabic (720p)",
+            "link": "https://list.iptvcat.com/my_list/s/5f734aa4c269b814bfac1113cd90d6f9.m3u8",
+            "country": "united kingdom",
+            "liveliness": "100",
+            "status": "online",
+            "lastChecked": "2022-08-15T00:00:00Z",
+            "format": "sd",
+            "mbps": "450",
+            "URI": [
+                "united_kingdom_-_-_-_-_-_-_-_-_-"
+            ]
+        },
+        {
             "id": "1340303",
             "channel": "BBC Arabic (720p)",
             "link": "https://list.iptvcat.com/my_list/s/0764c1c8402ca599fe3a62656699f3a8.m3u8",
@@ -351,20 +365,6 @@
             ]
         },
         {
-            "id": "1340305",
-            "channel": "BBC Arabic (720p)",
-            "link": "https://list.iptvcat.com/my_list/s/5f734aa4c269b814bfac1113cd90d6f9.m3u8",
-            "country": "united kingdom",
-            "liveliness": "100",
-            "status": "online",
-            "lastChecked": "2022-08-15T00:00:00Z",
-            "format": "sd",
-            "mbps": "450",
-            "URI": [
-                "united_kingdom_-_-_-_-_-_-_-_-_-"
-            ]
-        },
-        {
             "id": "2497127",
             "channel": "BBC LIFESTYLE",
             "link": "https://list.iptvcat.com/my_list/s/611654f415581e250fc596931b480e97.m3u8",
@@ -374,6 +374,20 @@
             "lastChecked": "2022-08-15T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
+            "URI": [
+                "united_kingdom_-_-_-_-_-_-_-_-_-"
+            ]
+        },
+        {
+            "id": "1340321",
+            "channel": "BBC Persian (540p)",
+            "link": "https://list.iptvcat.com/my_list/s/3fec89852551b6da71c0e44bd33a2f38.m3u8",
+            "country": "united kingdom",
+            "liveliness": "100",
+            "status": "online",
+            "lastChecked": "2022-08-15T00:00:00Z",
+            "format": "sd",
+            "mbps": "2883, ...",
             "URI": [
                 "united_kingdom_-_-_-_-_-_-_-_-_-"
             ]
@@ -407,23 +421,9 @@
             ]
         },
         {
-            "id": "1340321",
-            "channel": "BBC Persian (540p)",
-            "link": "https://list.iptvcat.com/my_list/s/3fec89852551b6da71c0e44bd33a2f38.m3u8",
-            "country": "united kingdom",
-            "liveliness": "100",
-            "status": "online",
-            "lastChecked": "2022-08-15T00:00:00Z",
-            "format": "sd",
-            "mbps": "2883, ...",
-            "URI": [
-                "united_kingdom_-_-_-_-_-_-_-_-_-"
-            ]
-        },
-        {
-            "id": "1340319",
+            "id": "1340317",
             "channel": "BBC Persian (720p)",
-            "link": "https://list.iptvcat.com/my_list/s/b8f705cd7a38098e45aa4f9e74a259ed.m3u8",
+            "link": "https://list.iptvcat.com/my_list/s/040c053581aca4c7fc546b4e5320ff43.m3u8",
             "country": "united kingdom",
             "liveliness": "100",
             "status": "online",
@@ -449,9 +449,9 @@
             ]
         },
         {
-            "id": "1340317",
+            "id": "1340319",
             "channel": "BBC Persian (720p)",
-            "link": "https://list.iptvcat.com/my_list/s/040c053581aca4c7fc546b4e5320ff43.m3u8",
+            "link": "https://list.iptvcat.com/my_list/s/b8f705cd7a38098e45aa4f9e74a259ed.m3u8",
             "country": "united kingdom",
             "liveliness": "100",
             "status": "online",
@@ -470,8 +470,8 @@
             "liveliness": "100",
             "status": "online",
             "lastChecked": "2022-08-15T00:00:00Z",
-            "format": "fhd 2k",
-            "mbps": "7004",
+            "format": "hd",
+            "mbps": "5020",
             "URI": [
                 "united_kingdom_-_-_-_-_-_-_-_-_-"
             ]
@@ -481,7 +481,7 @@
             "channel": "BET",
             "link": "https://list.iptvcat.com/my_list/s/6dca7f800fd728e07d2b32967018e2fe.m3u8",
             "country": "united kingdom",
-            "liveliness": "33",
+            "liveliness": "20",
             "status": "offline",
             "lastChecked": "2022-08-15T00:00:00Z",
             "format": "hd",
@@ -565,8 +565,8 @@
             "channel": "BT Sport 2 FHD",
             "link": "https://list.iptvcat.com/my_list/s/251de9f24c2d2424911a085feb378bc9.m3u8",
             "country": "united kingdom",
-            "liveliness": "100",
-            "status": "online",
+            "liveliness": "50",
+            "status": "offline",
             "lastChecked": "2022-08-15T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "13873",
@@ -845,8 +845,8 @@
             "channel": "DISCOVERY HISTORY",
             "link": "https://list.iptvcat.com/my_list/s/95b4fd83e9872c7dd6b79308f35dbc9d.m3u8",
             "country": "united kingdom",
-            "liveliness": "67",
-            "status": "offline",
+            "liveliness": "75",
+            "status": "online",
             "lastChecked": "2022-08-15T00:00:00Z",
             "format": "hd",
             "mbps": "5020",
@@ -873,7 +873,7 @@
             "channel": "DISCOVERY TURBO",
             "link": "https://list.iptvcat.com/my_list/s/62a008468dde1950f631efc4813ebd3a.m3u8",
             "country": "united kingdom",
-            "liveliness": "33",
+            "liveliness": "20",
             "status": "offline",
             "lastChecked": "2022-08-15T00:00:00Z",
             "format": "sd",
@@ -915,8 +915,8 @@
             "channel": "DISNEY JUNIOR",
             "link": "https://list.iptvcat.com/my_list/s/879ef9b681037f596cb5d4f7490cb67c.m3u8",
             "country": "united kingdom",
-            "liveliness": "100",
-            "status": "online",
+            "liveliness": "80",
+            "status": "offline",
             "lastChecked": "2022-08-15T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "13873",
@@ -974,8 +974,8 @@
             "liveliness": "50",
             "status": "offline",
             "lastChecked": "2022-08-15T00:00:00Z",
-            "format": "sd",
-            "mbps": "1509",
+            "format": "fhd 2k",
+            "mbps": "8370",
             "URI": [
                 "united_kingdom_-_-_-_-_-_-_-_-_-"
             ]
@@ -985,8 +985,8 @@
             "channel": "Discovery Shed HD+",
             "link": "https://list.iptvcat.com/my_list/s/9d76174e6835e29b9eb784a4e9da26fb.m3u8",
             "country": "united kingdom",
-            "liveliness": "100",
-            "status": "online",
+            "liveliness": "50",
+            "status": "offline",
             "lastChecked": "2022-08-15T00:00:00Z",
             "format": "sd",
             "mbps": "1764",
@@ -1013,7 +1013,7 @@
             "channel": "Discovery Turbo",
             "link": "https://list.iptvcat.com/my_list/s/0b0ef5953a4798855ad9fdde43a3bcc2.m3u8",
             "country": "united kingdom",
-            "liveliness": "100",
+            "liveliness": "75",
             "status": "online",
             "lastChecked": "2022-08-15T00:00:00Z",
             "format": "sd",
@@ -1055,8 +1055,8 @@
             "channel": "E! 4K+",
             "link": "https://list.iptvcat.com/my_list/s/bbf30b62b69dcbffe09c7d5647e7f2f6.m3u8",
             "country": "united kingdom",
-            "liveliness": "50",
-            "status": "offline",
+            "liveliness": "75",
+            "status": "online",
             "lastChecked": "2022-08-15T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
@@ -1111,8 +1111,8 @@
             "channel": "Eden 4K+",
             "link": "https://list.iptvcat.com/my_list/s/926d5791f5646e5d651cf492208b93b6.m3u8",
             "country": "united kingdom",
-            "liveliness": "100",
-            "status": "online",
+            "liveliness": "50",
+            "status": "offline",
             "lastChecked": "2022-08-15T00:00:00Z",
             "format": "sd",
             "mbps": "2334",
@@ -1139,7 +1139,7 @@
             "channel": "Eurosport 1 4K+",
             "link": "https://list.iptvcat.com/my_list/s/3d1e694030002a014d621613ad889dc4.m3u8",
             "country": "united kingdom",
-            "liveliness": "50",
+            "liveliness": "25",
             "status": "offline",
             "lastChecked": "2022-08-15T00:00:00Z",
             "format": "sd",
@@ -1199,7 +1199,7 @@
             "status": "online",
             "lastChecked": "2022-08-15T00:00:00Z",
             "format": "sd",
-            "mbps": "2334",
+            "mbps": "1509",
             "URI": [
                 "united_kingdom_-_-_-_-_-_-_-_-_-"
             ]
@@ -1224,10 +1224,10 @@
             "link": "https://list.iptvcat.com/my_list/s/4f0f1654d11c4eeb9d89fc9654a60350.m3u8",
             "country": "united kingdom",
             "liveliness": "50",
-            "status": "offline",
+            "status": "online",
             "lastChecked": "2022-08-15T00:00:00Z",
             "format": "sd",
-            "mbps": "2285",
+            "mbps": "2334",
             "URI": [
                 "united_kingdom_-_-_-_-_-_-_-_-_-"
             ]
@@ -1237,8 +1237,8 @@
             "channel": "FilmRise Free Movies on Redbox",
             "link": "https://list.iptvcat.com/my_list/s/57a9d6442b06529a14d4601253a4b0a3.m3u8",
             "country": "united kingdom",
-            "liveliness": "100",
-            "status": "online",
+            "liveliness": "75",
+            "status": "offline",
             "lastChecked": "2022-08-15T00:00:00Z",
             "format": "hd",
             "mbps": "3064, ...",
@@ -1293,7 +1293,7 @@
             "channel": "Gold 4K+",
             "link": "https://list.iptvcat.com/my_list/s/ca841698c3932736017da73e19d5979f.m3u8",
             "country": "united kingdom",
-            "liveliness": "50",
+            "liveliness": "25",
             "status": "offline",
             "lastChecked": "2022-08-15T00:00:00Z",
             "format": "sd",
@@ -1322,7 +1322,7 @@
             "link": "https://list.iptvcat.com/my_list/s/d16e84f3e47c9e9532d61ce0eb54712c.m3u8",
             "country": "united kingdom",
             "liveliness": "50",
-            "status": "offline",
+            "status": "online",
             "lastChecked": "2022-08-15T00:00:00Z",
             "format": "sd",
             "mbps": "2334",
@@ -1335,8 +1335,8 @@
             "channel": "History Channel 4K+",
             "link": "https://list.iptvcat.com/my_list/s/83a9cc599596c3b1a849affed89addf0.m3u8",
             "country": "united kingdom",
-            "liveliness": "100",
-            "status": "online",
+            "liveliness": "50",
+            "status": "offline",
             "lastChecked": "2022-08-15T00:00:00Z",
             "format": "hd",
             "mbps": "3795",
@@ -1373,20 +1373,6 @@
             ]
         },
         {
-            "id": "2585413",
-            "channel": "ITV 2",
-            "link": "https://list.iptvcat.com/my_list/s/9cea575c7d243fa1595fea090249902f.m3u8",
-            "country": "united kingdom",
-            "liveliness": "100",
-            "status": "online",
-            "lastChecked": "2022-08-15T00:00:00Z",
-            "format": "sd",
-            "mbps": "2334",
-            "URI": [
-                "united_kingdom_-_-_-_-_-_-_-_-_-"
-            ]
-        },
-        {
             "id": "2497229",
             "channel": "ITV 2",
             "link": "https://list.iptvcat.com/my_list/s/f3786aa953532456858c8728867f9a5b.m3u8",
@@ -1396,6 +1382,20 @@
             "lastChecked": "2022-08-15T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
+            "URI": [
+                "united_kingdom_-_-_-_-_-_-_-_-_-"
+            ]
+        },
+        {
+            "id": "2585413",
+            "channel": "ITV 2",
+            "link": "https://list.iptvcat.com/my_list/s/9cea575c7d243fa1595fea090249902f.m3u8",
+            "country": "united kingdom",
+            "liveliness": "100",
+            "status": "online",
+            "lastChecked": "2022-08-15T00:00:00Z",
+            "format": "sd",
+            "mbps": "1509",
             "URI": [
                 "united_kingdom_-_-_-_-_-_-_-_-_-"
             ]
@@ -1451,7 +1451,7 @@
             "status": "online",
             "lastChecked": "2022-08-15T00:00:00Z",
             "format": "sd",
-            "mbps": "1796",
+            "mbps": "2285",
             "URI": [
                 "united_kingdom_-_-_-_-_-_-_-_-_-"
             ]
@@ -1489,7 +1489,7 @@
             "channel": "ANIMAL PLANET",
             "link": "https://list.iptvcat.com/my_list/s/d32df8c705fa7afa89511144135779be.m3u8",
             "country": "united kingdom",
-            "liveliness": "67",
+            "liveliness": "50",
             "status": "offline",
             "lastChecked": "2022-08-15T00:00:00Z",
             "format": "sd",
@@ -1573,8 +1573,8 @@
             "channel": "At The Races",
             "link": "https://list.iptvcat.com/my_list/s/150d1241413f352e562a7a07599b868a.m3u8",
             "country": "united kingdom",
-            "liveliness": "100",
-            "status": "online",
+            "liveliness": "50",
+            "status": "offline",
             "lastChecked": "2022-08-15T00:00:00Z",
             "format": "sd",
             "mbps": "1479",
@@ -1604,8 +1604,8 @@
             "liveliness": "100",
             "status": "online",
             "lastChecked": "2022-08-15T00:00:00Z",
-            "format": "sd",
-            "mbps": "2334",
+            "format": "fhd 2k",
+            "mbps": "7004",
             "URI": [
                 "united_kingdom_-_-_-_-_-_-_-_-_-"
             ]
@@ -1660,8 +1660,8 @@
             "liveliness": "100",
             "status": "online",
             "lastChecked": "2022-08-15T00:00:00Z",
-            "format": "hd",
-            "mbps": "6241",
+            "format": "fhd 2k",
+            "mbps": "7004",
             "URI": [
                 "united_kingdom_-_-_-_-_-_-_-_-_-"
             ]
@@ -1723,6 +1723,20 @@
             ]
         },
         {
+            "id": "1340305",
+            "channel": "BBC Arabic (720p)",
+            "link": "https://list.iptvcat.com/my_list/s/5f734aa4c269b814bfac1113cd90d6f9.m3u8",
+            "country": "united kingdom",
+            "liveliness": "100",
+            "status": "online",
+            "lastChecked": "2022-08-15T00:00:00Z",
+            "format": "sd",
+            "mbps": "450",
+            "URI": [
+                "united_kingdom_-_-_-_-_-_-_-_-_-"
+            ]
+        },
+        {
             "id": "1340303",
             "channel": "BBC Arabic (720p)",
             "link": "https://list.iptvcat.com/my_list/s/0764c1c8402ca599fe3a62656699f3a8.m3u8",
@@ -1751,20 +1765,6 @@
             ]
         },
         {
-            "id": "1340305",
-            "channel": "BBC Arabic (720p)",
-            "link": "https://list.iptvcat.com/my_list/s/5f734aa4c269b814bfac1113cd90d6f9.m3u8",
-            "country": "united kingdom",
-            "liveliness": "100",
-            "status": "online",
-            "lastChecked": "2022-08-15T00:00:00Z",
-            "format": "sd",
-            "mbps": "450",
-            "URI": [
-                "united_kingdom_-_-_-_-_-_-_-_-_-"
-            ]
-        },
-        {
             "id": "2497127",
             "channel": "BBC LIFESTYLE",
             "link": "https://list.iptvcat.com/my_list/s/611654f415581e250fc596931b480e97.m3u8",
@@ -1774,6 +1774,20 @@
             "lastChecked": "2022-08-15T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
+            "URI": [
+                "united_kingdom_-_-_-_-_-_-_-_-_-"
+            ]
+        },
+        {
+            "id": "1340321",
+            "channel": "BBC Persian (540p)",
+            "link": "https://list.iptvcat.com/my_list/s/3fec89852551b6da71c0e44bd33a2f38.m3u8",
+            "country": "united kingdom",
+            "liveliness": "100",
+            "status": "online",
+            "lastChecked": "2022-08-15T00:00:00Z",
+            "format": "sd",
+            "mbps": "2883, ...",
             "URI": [
                 "united_kingdom_-_-_-_-_-_-_-_-_-"
             ]
@@ -1807,23 +1821,9 @@
             ]
         },
         {
-            "id": "1340321",
-            "channel": "BBC Persian (540p)",
-            "link": "https://list.iptvcat.com/my_list/s/3fec89852551b6da71c0e44bd33a2f38.m3u8",
-            "country": "united kingdom",
-            "liveliness": "100",
-            "status": "online",
-            "lastChecked": "2022-08-15T00:00:00Z",
-            "format": "sd",
-            "mbps": "2883, ...",
-            "URI": [
-                "united_kingdom_-_-_-_-_-_-_-_-_-"
-            ]
-        },
-        {
-            "id": "1340319",
+            "id": "1340317",
             "channel": "BBC Persian (720p)",
-            "link": "https://list.iptvcat.com/my_list/s/b8f705cd7a38098e45aa4f9e74a259ed.m3u8",
+            "link": "https://list.iptvcat.com/my_list/s/040c053581aca4c7fc546b4e5320ff43.m3u8",
             "country": "united kingdom",
             "liveliness": "100",
             "status": "online",
@@ -1849,9 +1849,9 @@
             ]
         },
         {
-            "id": "1340317",
+            "id": "1340319",
             "channel": "BBC Persian (720p)",
-            "link": "https://list.iptvcat.com/my_list/s/040c053581aca4c7fc546b4e5320ff43.m3u8",
+            "link": "https://list.iptvcat.com/my_list/s/b8f705cd7a38098e45aa4f9e74a259ed.m3u8",
             "country": "united kingdom",
             "liveliness": "100",
             "status": "online",
@@ -1870,8 +1870,8 @@
             "liveliness": "100",
             "status": "online",
             "lastChecked": "2022-08-15T00:00:00Z",
-            "format": "fhd 2k",
-            "mbps": "7004",
+            "format": "hd",
+            "mbps": "5020",
             "URI": [
                 "united_kingdom_-_-_-_-_-_-_-_-_-"
             ]
@@ -1881,7 +1881,7 @@
             "channel": "BET",
             "link": "https://list.iptvcat.com/my_list/s/6dca7f800fd728e07d2b32967018e2fe.m3u8",
             "country": "united kingdom",
-            "liveliness": "33",
+            "liveliness": "20",
             "status": "offline",
             "lastChecked": "2022-08-15T00:00:00Z",
             "format": "hd",
@@ -1965,8 +1965,8 @@
             "channel": "BT Sport 2 FHD",
             "link": "https://list.iptvcat.com/my_list/s/251de9f24c2d2424911a085feb378bc9.m3u8",
             "country": "united kingdom",
-            "liveliness": "100",
-            "status": "online",
+            "liveliness": "50",
+            "status": "offline",
             "lastChecked": "2022-08-15T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "13873",
@@ -2245,8 +2245,8 @@
             "channel": "DISCOVERY HISTORY",
             "link": "https://list.iptvcat.com/my_list/s/95b4fd83e9872c7dd6b79308f35dbc9d.m3u8",
             "country": "united kingdom",
-            "liveliness": "67",
-            "status": "offline",
+            "liveliness": "75",
+            "status": "online",
             "lastChecked": "2022-08-15T00:00:00Z",
             "format": "hd",
             "mbps": "5020",
@@ -2273,7 +2273,7 @@
             "channel": "DISCOVERY TURBO",
             "link": "https://list.iptvcat.com/my_list/s/62a008468dde1950f631efc4813ebd3a.m3u8",
             "country": "united kingdom",
-            "liveliness": "33",
+            "liveliness": "20",
             "status": "offline",
             "lastChecked": "2022-08-15T00:00:00Z",
             "format": "sd",
@@ -2315,8 +2315,8 @@
             "channel": "DISNEY JUNIOR",
             "link": "https://list.iptvcat.com/my_list/s/879ef9b681037f596cb5d4f7490cb67c.m3u8",
             "country": "united kingdom",
-            "liveliness": "100",
-            "status": "online",
+            "liveliness": "80",
+            "status": "offline",
             "lastChecked": "2022-08-15T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "13873",
@@ -2374,8 +2374,8 @@
             "liveliness": "50",
             "status": "offline",
             "lastChecked": "2022-08-15T00:00:00Z",
-            "format": "sd",
-            "mbps": "1509",
+            "format": "fhd 2k",
+            "mbps": "8370",
             "URI": [
                 "united_kingdom_-_-_-_-_-_-_-_-_-"
             ]
@@ -2385,8 +2385,8 @@
             "channel": "Discovery Shed HD+",
             "link": "https://list.iptvcat.com/my_list/s/9d76174e6835e29b9eb784a4e9da26fb.m3u8",
             "country": "united kingdom",
-            "liveliness": "100",
-            "status": "online",
+            "liveliness": "50",
+            "status": "offline",
             "lastChecked": "2022-08-15T00:00:00Z",
             "format": "sd",
             "mbps": "1764",
@@ -2413,7 +2413,7 @@
             "channel": "Discovery Turbo",
             "link": "https://list.iptvcat.com/my_list/s/0b0ef5953a4798855ad9fdde43a3bcc2.m3u8",
             "country": "united kingdom",
-            "liveliness": "100",
+            "liveliness": "75",
             "status": "online",
             "lastChecked": "2022-08-15T00:00:00Z",
             "format": "sd",
@@ -2455,8 +2455,8 @@
             "channel": "E! 4K+",
             "link": "https://list.iptvcat.com/my_list/s/bbf30b62b69dcbffe09c7d5647e7f2f6.m3u8",
             "country": "united kingdom",
-            "liveliness": "50",
-            "status": "offline",
+            "liveliness": "75",
+            "status": "online",
             "lastChecked": "2022-08-15T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
@@ -2511,8 +2511,8 @@
             "channel": "Eden 4K+",
             "link": "https://list.iptvcat.com/my_list/s/926d5791f5646e5d651cf492208b93b6.m3u8",
             "country": "united kingdom",
-            "liveliness": "100",
-            "status": "online",
+            "liveliness": "50",
+            "status": "offline",
             "lastChecked": "2022-08-15T00:00:00Z",
             "format": "sd",
             "mbps": "2334",
@@ -2539,7 +2539,7 @@
             "channel": "Eurosport 1 4K+",
             "link": "https://list.iptvcat.com/my_list/s/3d1e694030002a014d621613ad889dc4.m3u8",
             "country": "united kingdom",
-            "liveliness": "50",
+            "liveliness": "25",
             "status": "offline",
             "lastChecked": "2022-08-15T00:00:00Z",
             "format": "sd",
@@ -2599,7 +2599,7 @@
             "status": "online",
             "lastChecked": "2022-08-15T00:00:00Z",
             "format": "sd",
-            "mbps": "2334",
+            "mbps": "1509",
             "URI": [
                 "united_kingdom_-_-_-_-_-_-_-_-_-"
             ]
@@ -2624,10 +2624,10 @@
             "link": "https://list.iptvcat.com/my_list/s/4f0f1654d11c4eeb9d89fc9654a60350.m3u8",
             "country": "united kingdom",
             "liveliness": "50",
-            "status": "offline",
+            "status": "online",
             "lastChecked": "2022-08-15T00:00:00Z",
             "format": "sd",
-            "mbps": "2285",
+            "mbps": "2334",
             "URI": [
                 "united_kingdom_-_-_-_-_-_-_-_-_-"
             ]
@@ -2637,8 +2637,8 @@
             "channel": "FilmRise Free Movies on Redbox",
             "link": "https://list.iptvcat.com/my_list/s/57a9d6442b06529a14d4601253a4b0a3.m3u8",
             "country": "united kingdom",
-            "liveliness": "100",
-            "status": "online",
+            "liveliness": "75",
+            "status": "offline",
             "lastChecked": "2022-08-15T00:00:00Z",
             "format": "hd",
             "mbps": "3064, ...",
@@ -2693,7 +2693,7 @@
             "channel": "Gold 4K+",
             "link": "https://list.iptvcat.com/my_list/s/ca841698c3932736017da73e19d5979f.m3u8",
             "country": "united kingdom",
-            "liveliness": "50",
+            "liveliness": "25",
             "status": "offline",
             "lastChecked": "2022-08-15T00:00:00Z",
             "format": "sd",
@@ -2722,7 +2722,7 @@
             "link": "https://list.iptvcat.com/my_list/s/d16e84f3e47c9e9532d61ce0eb54712c.m3u8",
             "country": "united kingdom",
             "liveliness": "50",
-            "status": "offline",
+            "status": "online",
             "lastChecked": "2022-08-15T00:00:00Z",
             "format": "sd",
             "mbps": "2334",
@@ -2735,8 +2735,8 @@
             "channel": "History Channel 4K+",
             "link": "https://list.iptvcat.com/my_list/s/83a9cc599596c3b1a849affed89addf0.m3u8",
             "country": "united kingdom",
-            "liveliness": "100",
-            "status": "online",
+            "liveliness": "50",
+            "status": "offline",
             "lastChecked": "2022-08-15T00:00:00Z",
             "format": "hd",
             "mbps": "3795",
@@ -2773,20 +2773,6 @@
             ]
         },
         {
-            "id": "2585413",
-            "channel": "ITV 2",
-            "link": "https://list.iptvcat.com/my_list/s/9cea575c7d243fa1595fea090249902f.m3u8",
-            "country": "united kingdom",
-            "liveliness": "100",
-            "status": "online",
-            "lastChecked": "2022-08-15T00:00:00Z",
-            "format": "sd",
-            "mbps": "2334",
-            "URI": [
-                "united_kingdom_-_-_-_-_-_-_-_-_-"
-            ]
-        },
-        {
             "id": "2497229",
             "channel": "ITV 2",
             "link": "https://list.iptvcat.com/my_list/s/f3786aa953532456858c8728867f9a5b.m3u8",
@@ -2796,6 +2782,20 @@
             "lastChecked": "2022-08-15T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
+            "URI": [
+                "united_kingdom_-_-_-_-_-_-_-_-_-"
+            ]
+        },
+        {
+            "id": "2585413",
+            "channel": "ITV 2",
+            "link": "https://list.iptvcat.com/my_list/s/9cea575c7d243fa1595fea090249902f.m3u8",
+            "country": "united kingdom",
+            "liveliness": "100",
+            "status": "online",
+            "lastChecked": "2022-08-15T00:00:00Z",
+            "format": "sd",
+            "mbps": "1509",
             "URI": [
                 "united_kingdom_-_-_-_-_-_-_-_-_-"
             ]
@@ -2875,8 +2875,8 @@
             "channel": "ITV3 +1",
             "link": "https://list.iptvcat.com/my_list/s/7e4e73f204a6adea6fe1e2312bc534b9.m3u8",
             "country": "united kingdom",
-            "liveliness": "67",
-            "status": "offline",
+            "liveliness": "60",
+            "status": "online",
             "lastChecked": "2022-08-15T00:00:00Z",
             "format": "sd",
             "mbps": "2285",
@@ -2918,10 +2918,10 @@
             "link": "https://list.iptvcat.com/my_list/s/91059e866c7fc9636eb8ba2e97b7b737.m3u8",
             "country": "united kingdom",
             "liveliness": "50",
-            "status": "offline",
+            "status": "online",
             "lastChecked": "2022-08-15T00:00:00Z",
-            "format": "sd",
-            "mbps": "2334",
+            "format": "hd",
+            "mbps": "5020",
             "URI": [
                 "united_kingdom_-_-_-_-_-_-_-_-_-"
             ]
@@ -2988,7 +2988,7 @@
             "link": "https://list.iptvcat.com/my_list/s/515a908c9182049a4aa1374b0921e899.m3u8",
             "country": "united kingdom",
             "liveliness": "97",
-            "status": "online",
+            "status": "offline",
             "lastChecked": "2022-08-15T00:00:00Z",
             "format": "hd",
             "mbps": "3625, ...",
@@ -3075,7 +3075,7 @@
             "status": "online",
             "lastChecked": "2022-08-15T00:00:00Z",
             "format": "fhd 2k",
-            "mbps": "13324",
+            "mbps": "11126",
             "URI": [
                 "united_kingdom_-_-_-_-_-_-_-_-_-"
             ]
@@ -3085,8 +3085,8 @@
             "channel": "MTV Music",
             "link": "https://list.iptvcat.com/my_list/s/3e0b5ea60af21295ba0f879b254df6a1.m3u8",
             "country": "united kingdom",
-            "liveliness": "100",
-            "status": "online",
+            "liveliness": "75",
+            "status": "offline",
             "lastChecked": "2022-08-15T00:00:00Z",
             "format": "sd",
             "mbps": "1509",
@@ -3155,8 +3155,8 @@
             "channel": "NickToons",
             "link": "https://list.iptvcat.com/my_list/s/959667dfa139ed3f4fe3434459aca8e7.m3u8",
             "country": "united kingdom",
-            "liveliness": "100",
-            "status": "online",
+            "liveliness": "75",
+            "status": "offline",
             "lastChecked": "2022-08-15T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
@@ -3170,10 +3170,10 @@
             "link": "https://list.iptvcat.com/my_list/s/e06c914ee2f0303e76a85e1ebc8682fe.m3u8",
             "country": "united kingdom",
             "liveliness": "86",
-            "status": "online",
+            "status": "offline",
             "lastChecked": "2022-08-15T00:00:00Z",
             "format": "hd",
-            "mbps": "3795, ...",
+            "mbps": "3064, ...",
             "URI": [
                 "united_kingdom_-_-_-_-_-_-_-_-_-"
             ]
@@ -3239,25 +3239,11 @@
             "channel": "Premier Sports 1 4K+",
             "link": "https://list.iptvcat.com/my_list/s/903a9d643bf9b6df901fce1f0915632f.m3u8",
             "country": "united kingdom",
-            "liveliness": "100",
-            "status": "online",
+            "liveliness": "75",
+            "status": "offline",
             "lastChecked": "2022-08-15T00:00:00Z",
             "format": "hd",
             "mbps": "5020",
-            "URI": [
-                "united_kingdom_-_-_-_-_-_-_-_-_-"
-            ]
-        },
-        {
-            "id": "24807",
-            "channel": "QVC",
-            "link": "https://list.iptvcat.com/my_list/s/504442f1e0a2d1311afdcd2a864b3b7f.m3u8",
-            "country": "united kingdom",
-            "liveliness": "99",
-            "status": "online",
-            "lastChecked": "2022-08-15T00:00:00Z",
-            "format": "sd",
-            "mbps": "1853",
             "URI": [
                 "united_kingdom_-_-_-_-_-_-_-_-_-"
             ]
@@ -3277,12 +3263,26 @@
             ]
         },
         {
+            "id": "24807",
+            "channel": "QVC",
+            "link": "https://list.iptvcat.com/my_list/s/504442f1e0a2d1311afdcd2a864b3b7f.m3u8",
+            "country": "united kingdom",
+            "liveliness": "99",
+            "status": "online",
+            "lastChecked": "2022-08-15T00:00:00Z",
+            "format": "sd",
+            "mbps": "1853",
+            "URI": [
+                "united_kingdom_-_-_-_-_-_-_-_-_-"
+            ]
+        },
+        {
             "id": "2586568",
             "channel": "Racing UK 4K+",
             "link": "https://list.iptvcat.com/my_list/s/b80efb15f33d6f81336e424710aaa472.m3u8",
             "country": "united kingdom",
             "liveliness": "50",
-            "status": "offline",
+            "status": "online",
             "lastChecked": "2022-08-15T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "11126",
@@ -3295,7 +3295,7 @@
             "channel": "Really HD+",
             "link": "https://list.iptvcat.com/my_list/s/d8fc73b8b8ee0f7ae83ca815ff0537fe.m3u8",
             "country": "united kingdom",
-            "liveliness": "50",
+            "liveliness": "25",
             "status": "offline",
             "lastChecked": "2022-08-15T00:00:00Z",
             "format": "sd",
@@ -3324,7 +3324,7 @@
             "link": "https://list.iptvcat.com/my_list/s/744a56f8114045f5ac98d87b8df19c0b.m3u8",
             "country": "united kingdom",
             "liveliness": "85",
-            "status": "offline",
+            "status": "online",
             "lastChecked": "2022-08-15T00:00:00Z",
             "format": "hd",
             "mbps": "3795, ...",
@@ -3338,7 +3338,7 @@
             "link": "https://list.iptvcat.com/my_list/s/523642077e818502c2e8917625d48ebd.m3u8",
             "country": "united kingdom",
             "liveliness": "92",
-            "status": "online",
+            "status": "offline",
             "lastChecked": "2022-08-15T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "8378, ...",
@@ -3379,7 +3379,7 @@
             "channel": "SKY CRIME HD",
             "link": "https://list.iptvcat.com/my_list/s/c3937f05dd461c6695489fcefb46b8e8.m3u8",
             "country": "united kingdom",
-            "liveliness": "33",
+            "liveliness": "20",
             "status": "offline",
             "lastChecked": "2022-08-15T00:00:00Z",
             "format": "fhd 2k",
@@ -3452,8 +3452,8 @@
             "liveliness": "100",
             "status": "online",
             "lastChecked": "2022-08-15T00:00:00Z",
-            "format": "fhd 2k",
-            "mbps": "7004",
+            "format": "hd",
+            "mbps": "5020",
             "URI": [
                 "united_kingdom_-_-_-_-_-_-_-_-_-"
             ]
@@ -3463,8 +3463,8 @@
             "channel": "SKY MOVIES PREMIERE",
             "link": "https://list.iptvcat.com/my_list/s/cf5631a18c0259b90369782299b2bee4.m3u8",
             "country": "united kingdom",
-            "liveliness": "67",
-            "status": "online",
+            "liveliness": "40",
+            "status": "offline",
             "lastChecked": "2022-08-15T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
@@ -3505,8 +3505,8 @@
             "channel": "SKY PRE ORDER 1",
             "link": "https://list.iptvcat.com/my_list/s/9598d3def83c9f68ff602ef54257b237.m3u8",
             "country": "united kingdom",
-            "liveliness": "100",
-            "status": "online",
+            "liveliness": "80",
+            "status": "offline",
             "lastChecked": "2022-08-15T00:00:00Z",
             "format": "hd",
             "mbps": "3188",
@@ -3578,8 +3578,8 @@
             "liveliness": "100",
             "status": "online",
             "lastChecked": "2022-08-15T00:00:00Z",
-            "format": "fhd 2k",
-            "mbps": "11126",
+            "format": "sd",
+            "mbps": "1479",
             "URI": [
                 "united_kingdom_-_-_-_-_-_-_-_-_-"
             ]
@@ -3589,8 +3589,8 @@
             "channel": "SKY STORE 3",
             "link": "https://list.iptvcat.com/my_list/s/53474ba921c95ddedd88727a6cd0aafe.m3u8",
             "country": "united kingdom",
-            "liveliness": "25",
-            "status": "offline",
+            "liveliness": "33",
+            "status": "online",
             "lastChecked": "2022-08-15T00:00:00Z",
             "format": "hd",
             "mbps": "3795",
@@ -3603,8 +3603,8 @@
             "channel": "SKY STORE 4",
             "link": "https://list.iptvcat.com/my_list/s/1ef527b7c0ca63048fbb1205f09c1131.m3u8",
             "country": "united kingdom",
-            "liveliness": "75",
-            "status": "online",
+            "liveliness": "50",
+            "status": "offline",
             "lastChecked": "2022-08-15T00:00:00Z",
             "format": "hd",
             "mbps": "3188",
@@ -3701,11 +3701,11 @@
             "channel": "Sky Cinema Family 4K+",
             "link": "https://list.iptvcat.com/my_list/s/2f99454a0d24e846fcc15313faffbbcf.m3u8",
             "country": "united kingdom",
-            "liveliness": "100",
-            "status": "online",
+            "liveliness": "75",
+            "status": "offline",
             "lastChecked": "2022-08-15T00:00:00Z",
-            "format": "sd",
-            "mbps": "2334",
+            "format": "fhd 2k",
+            "mbps": "7004",
             "URI": [
                 "united_kingdom_-_-_-_-_-_-_-_-_-"
             ]
@@ -3718,8 +3718,8 @@
             "liveliness": "50",
             "status": "offline",
             "lastChecked": "2022-08-15T00:00:00Z",
-            "format": "sd",
-            "mbps": "2334",
+            "format": "fhd 2k",
+            "mbps": "7004",
             "URI": [
                 "united_kingdom_-_-_-_-_-_-_-_-_-"
             ]
@@ -3729,11 +3729,11 @@
             "channel": "Sky One 4K+",
             "link": "https://list.iptvcat.com/my_list/s/2a1480ce46aea86b2f7f886480715834.m3u8",
             "country": "united kingdom",
-            "liveliness": "100",
-            "status": "online",
+            "liveliness": "75",
+            "status": "offline",
             "lastChecked": "2022-08-15T00:00:00Z",
-            "format": "sd",
-            "mbps": "1174",
+            "format": "hd",
+            "mbps": "5020",
             "URI": [
                 "united_kingdom_-_-_-_-_-_-_-_-_-"
             ]
@@ -3785,8 +3785,8 @@
             "channel": "Sky Sports F1 4K+",
             "link": "https://list.iptvcat.com/my_list/s/97d1e8f826dbd2339f7fbec4cb309ebb.m3u8",
             "country": "united kingdom",
-            "liveliness": "100",
-            "status": "online",
+            "liveliness": "50",
+            "status": "offline",
             "lastChecked": "2022-08-15T00:00:00Z",
             "format": "hd",
             "mbps": "5020",
@@ -4009,7 +4009,7 @@
             "channel": "Travel Channel",
             "link": "https://list.iptvcat.com/my_list/s/2143bbfe093fbed3c76d48ab14ecfd42.m3u8",
             "country": "united kingdom",
-            "liveliness": "50",
+            "liveliness": "25",
             "status": "offline",
             "lastChecked": "2022-08-15T00:00:00Z",
             "format": "sd",
@@ -4111,7 +4111,7 @@
             "status": "online",
             "lastChecked": "2022-08-15T00:00:00Z",
             "format": "sd",
-            "mbps": "1796",
+            "mbps": "2285",
             "URI": [
                 "united_kingdom_-_-_-_-_-_-_-_-_-"
             ]
@@ -4149,7 +4149,7 @@
             "channel": "ANIMAL PLANET",
             "link": "https://list.iptvcat.com/my_list/s/d32df8c705fa7afa89511144135779be.m3u8",
             "country": "united kingdom",
-            "liveliness": "67",
+            "liveliness": "50",
             "status": "offline",
             "lastChecked": "2022-08-15T00:00:00Z",
             "format": "sd",
@@ -4233,8 +4233,8 @@
             "channel": "At The Races",
             "link": "https://list.iptvcat.com/my_list/s/150d1241413f352e562a7a07599b868a.m3u8",
             "country": "united kingdom",
-            "liveliness": "100",
-            "status": "online",
+            "liveliness": "50",
+            "status": "offline",
             "lastChecked": "2022-08-15T00:00:00Z",
             "format": "sd",
             "mbps": "1479",
@@ -4264,8 +4264,8 @@
             "liveliness": "100",
             "status": "online",
             "lastChecked": "2022-08-15T00:00:00Z",
-            "format": "sd",
-            "mbps": "2334",
+            "format": "fhd 2k",
+            "mbps": "7004",
             "URI": [
                 "united_kingdom_-_-_-_-_-_-_-_-_-"
             ]
@@ -4320,8 +4320,8 @@
             "liveliness": "100",
             "status": "online",
             "lastChecked": "2022-08-15T00:00:00Z",
-            "format": "hd",
-            "mbps": "6241",
+            "format": "fhd 2k",
+            "mbps": "7004",
             "URI": [
                 "united_kingdom_-_-_-_-_-_-_-_-_-"
             ]
@@ -4383,6 +4383,20 @@
             ]
         },
         {
+            "id": "1340305",
+            "channel": "BBC Arabic (720p)",
+            "link": "https://list.iptvcat.com/my_list/s/5f734aa4c269b814bfac1113cd90d6f9.m3u8",
+            "country": "united kingdom",
+            "liveliness": "100",
+            "status": "online",
+            "lastChecked": "2022-08-15T00:00:00Z",
+            "format": "sd",
+            "mbps": "450",
+            "URI": [
+                "united_kingdom_-_-_-_-_-_-_-_-_-"
+            ]
+        },
+        {
             "id": "1340303",
             "channel": "BBC Arabic (720p)",
             "link": "https://list.iptvcat.com/my_list/s/0764c1c8402ca599fe3a62656699f3a8.m3u8",
@@ -4411,20 +4425,6 @@
             ]
         },
         {
-            "id": "1340305",
-            "channel": "BBC Arabic (720p)",
-            "link": "https://list.iptvcat.com/my_list/s/5f734aa4c269b814bfac1113cd90d6f9.m3u8",
-            "country": "united kingdom",
-            "liveliness": "100",
-            "status": "online",
-            "lastChecked": "2022-08-15T00:00:00Z",
-            "format": "sd",
-            "mbps": "450",
-            "URI": [
-                "united_kingdom_-_-_-_-_-_-_-_-_-"
-            ]
-        },
-        {
             "id": "2497127",
             "channel": "BBC LIFESTYLE",
             "link": "https://list.iptvcat.com/my_list/s/611654f415581e250fc596931b480e97.m3u8",
@@ -4434,6 +4434,20 @@
             "lastChecked": "2022-08-15T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
+            "URI": [
+                "united_kingdom_-_-_-_-_-_-_-_-_-"
+            ]
+        },
+        {
+            "id": "1340321",
+            "channel": "BBC Persian (540p)",
+            "link": "https://list.iptvcat.com/my_list/s/3fec89852551b6da71c0e44bd33a2f38.m3u8",
+            "country": "united kingdom",
+            "liveliness": "100",
+            "status": "online",
+            "lastChecked": "2022-08-15T00:00:00Z",
+            "format": "sd",
+            "mbps": "2883, ...",
             "URI": [
                 "united_kingdom_-_-_-_-_-_-_-_-_-"
             ]
@@ -4467,23 +4481,9 @@
             ]
         },
         {
-            "id": "1340321",
-            "channel": "BBC Persian (540p)",
-            "link": "https://list.iptvcat.com/my_list/s/3fec89852551b6da71c0e44bd33a2f38.m3u8",
-            "country": "united kingdom",
-            "liveliness": "100",
-            "status": "online",
-            "lastChecked": "2022-08-15T00:00:00Z",
-            "format": "sd",
-            "mbps": "2883, ...",
-            "URI": [
-                "united_kingdom_-_-_-_-_-_-_-_-_-"
-            ]
-        },
-        {
-            "id": "1340319",
+            "id": "1340317",
             "channel": "BBC Persian (720p)",
-            "link": "https://list.iptvcat.com/my_list/s/b8f705cd7a38098e45aa4f9e74a259ed.m3u8",
+            "link": "https://list.iptvcat.com/my_list/s/040c053581aca4c7fc546b4e5320ff43.m3u8",
             "country": "united kingdom",
             "liveliness": "100",
             "status": "online",
@@ -4509,9 +4509,9 @@
             ]
         },
         {
-            "id": "1340317",
+            "id": "1340319",
             "channel": "BBC Persian (720p)",
-            "link": "https://list.iptvcat.com/my_list/s/040c053581aca4c7fc546b4e5320ff43.m3u8",
+            "link": "https://list.iptvcat.com/my_list/s/b8f705cd7a38098e45aa4f9e74a259ed.m3u8",
             "country": "united kingdom",
             "liveliness": "100",
             "status": "online",
@@ -4530,8 +4530,8 @@
             "liveliness": "100",
             "status": "online",
             "lastChecked": "2022-08-15T00:00:00Z",
-            "format": "fhd 2k",
-            "mbps": "7004",
+            "format": "hd",
+            "mbps": "5020",
             "URI": [
                 "united_kingdom_-_-_-_-_-_-_-_-_-"
             ]
@@ -4541,7 +4541,7 @@
             "channel": "BET",
             "link": "https://list.iptvcat.com/my_list/s/6dca7f800fd728e07d2b32967018e2fe.m3u8",
             "country": "united kingdom",
-            "liveliness": "33",
+            "liveliness": "20",
             "status": "offline",
             "lastChecked": "2022-08-15T00:00:00Z",
             "format": "hd",
@@ -4625,8 +4625,8 @@
             "channel": "BT Sport 2 FHD",
             "link": "https://list.iptvcat.com/my_list/s/251de9f24c2d2424911a085feb378bc9.m3u8",
             "country": "united kingdom",
-            "liveliness": "100",
-            "status": "online",
+            "liveliness": "50",
+            "status": "offline",
             "lastChecked": "2022-08-15T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "13873",
@@ -4905,8 +4905,8 @@
             "channel": "DISCOVERY HISTORY",
             "link": "https://list.iptvcat.com/my_list/s/95b4fd83e9872c7dd6b79308f35dbc9d.m3u8",
             "country": "united kingdom",
-            "liveliness": "67",
-            "status": "offline",
+            "liveliness": "75",
+            "status": "online",
             "lastChecked": "2022-08-15T00:00:00Z",
             "format": "hd",
             "mbps": "5020",
@@ -4933,7 +4933,7 @@
             "channel": "DISCOVERY TURBO",
             "link": "https://list.iptvcat.com/my_list/s/62a008468dde1950f631efc4813ebd3a.m3u8",
             "country": "united kingdom",
-            "liveliness": "33",
+            "liveliness": "20",
             "status": "offline",
             "lastChecked": "2022-08-15T00:00:00Z",
             "format": "sd",
@@ -4975,8 +4975,8 @@
             "channel": "DISNEY JUNIOR",
             "link": "https://list.iptvcat.com/my_list/s/879ef9b681037f596cb5d4f7490cb67c.m3u8",
             "country": "united kingdom",
-            "liveliness": "100",
-            "status": "online",
+            "liveliness": "80",
+            "status": "offline",
             "lastChecked": "2022-08-15T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "13873",
@@ -5034,8 +5034,8 @@
             "liveliness": "50",
             "status": "offline",
             "lastChecked": "2022-08-15T00:00:00Z",
-            "format": "sd",
-            "mbps": "1509",
+            "format": "fhd 2k",
+            "mbps": "8370",
             "URI": [
                 "united_kingdom_-_-_-_-_-_-_-_-_-"
             ]
@@ -5045,8 +5045,8 @@
             "channel": "Discovery Shed HD+",
             "link": "https://list.iptvcat.com/my_list/s/9d76174e6835e29b9eb784a4e9da26fb.m3u8",
             "country": "united kingdom",
-            "liveliness": "100",
-            "status": "online",
+            "liveliness": "50",
+            "status": "offline",
             "lastChecked": "2022-08-15T00:00:00Z",
             "format": "sd",
             "mbps": "1764",
@@ -5073,7 +5073,7 @@
             "channel": "Discovery Turbo",
             "link": "https://list.iptvcat.com/my_list/s/0b0ef5953a4798855ad9fdde43a3bcc2.m3u8",
             "country": "united kingdom",
-            "liveliness": "100",
+            "liveliness": "75",
             "status": "online",
             "lastChecked": "2022-08-15T00:00:00Z",
             "format": "sd",
@@ -5115,8 +5115,8 @@
             "channel": "E! 4K+",
             "link": "https://list.iptvcat.com/my_list/s/bbf30b62b69dcbffe09c7d5647e7f2f6.m3u8",
             "country": "united kingdom",
-            "liveliness": "50",
-            "status": "offline",
+            "liveliness": "75",
+            "status": "online",
             "lastChecked": "2022-08-15T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
@@ -5171,8 +5171,8 @@
             "channel": "Eden 4K+",
             "link": "https://list.iptvcat.com/my_list/s/926d5791f5646e5d651cf492208b93b6.m3u8",
             "country": "united kingdom",
-            "liveliness": "100",
-            "status": "online",
+            "liveliness": "50",
+            "status": "offline",
             "lastChecked": "2022-08-15T00:00:00Z",
             "format": "sd",
             "mbps": "2334",
@@ -5199,7 +5199,7 @@
             "channel": "Eurosport 1 4K+",
             "link": "https://list.iptvcat.com/my_list/s/3d1e694030002a014d621613ad889dc4.m3u8",
             "country": "united kingdom",
-            "liveliness": "50",
+            "liveliness": "25",
             "status": "offline",
             "lastChecked": "2022-08-15T00:00:00Z",
             "format": "sd",
@@ -5259,7 +5259,7 @@
             "status": "online",
             "lastChecked": "2022-08-15T00:00:00Z",
             "format": "sd",
-            "mbps": "2334",
+            "mbps": "1509",
             "URI": [
                 "united_kingdom_-_-_-_-_-_-_-_-_-"
             ]
@@ -5284,10 +5284,10 @@
             "link": "https://list.iptvcat.com/my_list/s/4f0f1654d11c4eeb9d89fc9654a60350.m3u8",
             "country": "united kingdom",
             "liveliness": "50",
-            "status": "offline",
+            "status": "online",
             "lastChecked": "2022-08-15T00:00:00Z",
             "format": "sd",
-            "mbps": "2285",
+            "mbps": "2334",
             "URI": [
                 "united_kingdom_-_-_-_-_-_-_-_-_-"
             ]
@@ -5297,8 +5297,8 @@
             "channel": "FilmRise Free Movies on Redbox",
             "link": "https://list.iptvcat.com/my_list/s/57a9d6442b06529a14d4601253a4b0a3.m3u8",
             "country": "united kingdom",
-            "liveliness": "100",
-            "status": "online",
+            "liveliness": "75",
+            "status": "offline",
             "lastChecked": "2022-08-15T00:00:00Z",
             "format": "hd",
             "mbps": "3064, ...",
@@ -5353,7 +5353,7 @@
             "channel": "Gold 4K+",
             "link": "https://list.iptvcat.com/my_list/s/ca841698c3932736017da73e19d5979f.m3u8",
             "country": "united kingdom",
-            "liveliness": "50",
+            "liveliness": "25",
             "status": "offline",
             "lastChecked": "2022-08-15T00:00:00Z",
             "format": "sd",
@@ -5382,7 +5382,7 @@
             "link": "https://list.iptvcat.com/my_list/s/d16e84f3e47c9e9532d61ce0eb54712c.m3u8",
             "country": "united kingdom",
             "liveliness": "50",
-            "status": "offline",
+            "status": "online",
             "lastChecked": "2022-08-15T00:00:00Z",
             "format": "sd",
             "mbps": "2334",
@@ -5395,8 +5395,8 @@
             "channel": "History Channel 4K+",
             "link": "https://list.iptvcat.com/my_list/s/83a9cc599596c3b1a849affed89addf0.m3u8",
             "country": "united kingdom",
-            "liveliness": "100",
-            "status": "online",
+            "liveliness": "50",
+            "status": "offline",
             "lastChecked": "2022-08-15T00:00:00Z",
             "format": "hd",
             "mbps": "3795",
@@ -5433,20 +5433,6 @@
             ]
         },
         {
-            "id": "2585413",
-            "channel": "ITV 2",
-            "link": "https://list.iptvcat.com/my_list/s/9cea575c7d243fa1595fea090249902f.m3u8",
-            "country": "united kingdom",
-            "liveliness": "100",
-            "status": "online",
-            "lastChecked": "2022-08-15T00:00:00Z",
-            "format": "sd",
-            "mbps": "2334",
-            "URI": [
-                "united_kingdom_-_-_-_-_-_-_-_-_-"
-            ]
-        },
-        {
             "id": "2497229",
             "channel": "ITV 2",
             "link": "https://list.iptvcat.com/my_list/s/f3786aa953532456858c8728867f9a5b.m3u8",
@@ -5456,6 +5442,20 @@
             "lastChecked": "2022-08-15T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
+            "URI": [
+                "united_kingdom_-_-_-_-_-_-_-_-_-"
+            ]
+        },
+        {
+            "id": "2585413",
+            "channel": "ITV 2",
+            "link": "https://list.iptvcat.com/my_list/s/9cea575c7d243fa1595fea090249902f.m3u8",
+            "country": "united kingdom",
+            "liveliness": "100",
+            "status": "online",
+            "lastChecked": "2022-08-15T00:00:00Z",
+            "format": "sd",
+            "mbps": "1509",
             "URI": [
                 "united_kingdom_-_-_-_-_-_-_-_-_-"
             ]
