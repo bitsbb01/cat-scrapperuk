@@ -21,7 +21,7 @@
             "country": "united kingdom",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-10-23T00:00:00Z",
+            "lastChecked": "2022-10-24T00:00:00Z",
             "format": "hd",
             "mbps": "3188",
             "URI": [
@@ -48,7 +48,7 @@
             "link": "https://list.iptvcat.com/my_list/s/5d6e124a28c79fd6630c8d323263bac8.m3u8",
             "country": "united kingdom",
             "liveliness": "82",
-            "status": "online",
+            "status": "offline",
             "lastChecked": "2022-10-24T00:00:00Z",
             "format": "sd",
             "mbps": "2285",
@@ -106,8 +106,8 @@
             "liveliness": "85",
             "status": "online",
             "lastChecked": "2022-10-24T00:00:00Z",
-            "format": "fhd 2k",
-            "mbps": "11126",
+            "format": "sd",
+            "mbps": "1509",
             "URI": [
                 "united_kingdom_-_-_-_-_-_-_-_-_-_-"
             ]
@@ -205,7 +205,7 @@
             "status": "online",
             "lastChecked": "2022-10-24T00:00:00Z",
             "format": "hd",
-            "mbps": "3188, ...",
+            "mbps": "3188",
             "URI": [
                 "united_kingdom_-_-_-_-_-_-_-_-_-_-"
             ]
@@ -217,7 +217,7 @@
             "country": "united kingdom",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2022-10-23T00:00:00Z",
+            "lastChecked": "2022-10-24T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "11126",
             "URI": [
@@ -337,13 +337,27 @@
             ]
         },
         {
+            "id": "2585419",
+            "channel": "BBC 1",
+            "link": "https://list.iptvcat.com/my_list/s/77c4a7a66dee2096fc12c9b7be1b8488.m3u8",
+            "country": "united kingdom",
+            "liveliness": "93",
+            "status": "online",
+            "lastChecked": "2022-10-24T00:00:00Z",
+            "format": "fhd 2k",
+            "mbps": "11126",
+            "URI": [
+                "united_kingdom_-_-_-_-_-_-_-_-_-_-"
+            ]
+        },
+        {
             "id": "2497113",
             "channel": "BBC 1",
             "link": "https://list.iptvcat.com/my_list/s/056befbe5137c0a283e7f0b9dd7f60a4.m3u8",
             "country": "united kingdom",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2022-10-23T00:00:00Z",
+            "lastChecked": "2022-10-24T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
@@ -360,20 +374,6 @@
             "lastChecked": "2022-10-24T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
-            "URI": [
-                "united_kingdom_-_-_-_-_-_-_-_-_-_-"
-            ]
-        },
-        {
-            "id": "2585419",
-            "channel": "BBC 1",
-            "link": "https://list.iptvcat.com/my_list/s/77c4a7a66dee2096fc12c9b7be1b8488.m3u8",
-            "country": "united kingdom",
-            "liveliness": "93",
-            "status": "online",
-            "lastChecked": "2022-10-24T00:00:00Z",
-            "format": "fhd 2k",
-            "mbps": "11126",
             "URI": [
                 "united_kingdom_-_-_-_-_-_-_-_-_-_-"
             ]
@@ -567,7 +567,7 @@
             "country": "united kingdom",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2022-10-23T00:00:00Z",
+            "lastChecked": "2022-10-24T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
@@ -637,7 +637,7 @@
             "country": "united kingdom",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-10-23T00:00:00Z",
+            "lastChecked": "2022-10-24T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -763,7 +763,7 @@
             "country": "united kingdom",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-10-23T00:00:00Z",
+            "lastChecked": "2022-10-24T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -861,7 +861,7 @@
             "country": "united kingdom",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2022-10-23T00:00:00Z",
+            "lastChecked": "2022-10-24T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
@@ -887,7 +887,7 @@
             "channel": "BT Sport 2 HD",
             "link": "https://list.iptvcat.com/my_list/s/7123ccd6cffe41c3ce4ed90eb631c7c2.m3u8",
             "country": "united kingdom",
-            "liveliness": "72",
+            "liveliness": "69",
             "status": "offline",
             "lastChecked": "2022-10-24T00:00:00Z",
             "format": "fhd 2k",
@@ -932,8 +932,8 @@
             "liveliness": "92",
             "status": "online",
             "lastChecked": "2022-10-24T00:00:00Z",
-            "format": "fhd 2k",
-            "mbps": "13873",
+            "format": "hd",
+            "mbps": "5020",
             "URI": [
                 "united_kingdom_-_-_-_-_-_-_-_-_-_-"
             ]
@@ -957,11 +957,11 @@
             "channel": "BT Sport Extra 3",
             "link": "https://list.iptvcat.com/my_list/s/1bbed5a948ecb1663d306f623055607b.m3u8",
             "country": "united kingdom",
-            "liveliness": "90",
+            "liveliness": "91",
             "status": "online",
             "lastChecked": "2022-10-24T00:00:00Z",
-            "format": "fhd 2k",
-            "mbps": "13873",
+            "format": "hd",
+            "mbps": "5020",
             "URI": [
                 "united_kingdom_-_-_-_-_-_-_-_-_-_-"
             ]
@@ -1169,7 +1169,7 @@
             "country": "united kingdom",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-10-23T00:00:00Z",
+            "lastChecked": "2022-10-24T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -1183,7 +1183,7 @@
             "country": "united kingdom",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-10-23T00:00:00Z",
+            "lastChecked": "2022-10-24T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
@@ -1309,7 +1309,7 @@
             "country": "united kingdom",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-10-23T00:00:00Z",
+            "lastChecked": "2022-10-24T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -1323,7 +1323,7 @@
             "country": "united kingdom",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-10-23T00:00:00Z",
+            "lastChecked": "2022-10-24T00:00:00Z",
             "format": "hd",
             "mbps": "5991, ...",
             "URI": [
@@ -1401,9 +1401,9 @@
             ]
         },
         {
-            "id": "2497289",
+            "id": "2497288",
             "channel": "Sky Sports Action",
-            "link": "https://list.iptvcat.com/my_list/s/e88db7857578c14861dc964c18447f5f.m3u8",
+            "link": "https://list.iptvcat.com/my_list/s/c74062f240c3916db1dbe0370330a458.m3u8",
             "country": "united kingdom",
             "liveliness": "99",
             "status": "online",
@@ -1415,9 +1415,9 @@
             ]
         },
         {
-            "id": "2497288",
+            "id": "2497289",
             "channel": "Sky Sports Action",
-            "link": "https://list.iptvcat.com/my_list/s/c74062f240c3916db1dbe0370330a458.m3u8",
+            "link": "https://list.iptvcat.com/my_list/s/e88db7857578c14861dc964c18447f5f.m3u8",
             "country": "united kingdom",
             "liveliness": "99",
             "status": "online",
@@ -1535,7 +1535,7 @@
             "status": "online",
             "lastChecked": "2022-10-24T00:00:00Z",
             "format": "hd",
-            "mbps": "11126, ...",
+            "mbps": "5020, ...",
             "URI": [
                 "united_kingdom_-_-_-_-_-_-_-_-_-_-"
             ]
@@ -1925,7 +1925,7 @@
             "country": "united kingdom",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-10-23T00:00:00Z",
+            "lastChecked": "2022-10-24T00:00:00Z",
             "format": "hd",
             "mbps": "5991, ...",
             "URI": [
@@ -1981,23 +1981,9 @@
             "country": "united kingdom",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-10-23T00:00:00Z",
-            "format": "hd",
-            "mbps": "5020, ...",
-            "URI": [
-                "united_kingdom_-_-_-_-_-_-_-_-_-_-"
-            ]
-        },
-        {
-            "id": "2602281",
-            "channel": "The Pet Collective",
-            "link": "https://list.iptvcat.com/my_list/s/a338fe90cffbdd8e7a00767ebfa1e154.m3u8",
-            "country": "united kingdom",
-            "liveliness": "100",
-            "status": "online",
             "lastChecked": "2022-10-24T00:00:00Z",
             "format": "hd",
-            "mbps": "5991, ...",
+            "mbps": "5020, ...",
             "URI": [
                 "united_kingdom_-_-_-_-_-_-_-_-_-_-"
             ]
@@ -2031,13 +2017,27 @@
             ]
         },
         {
+            "id": "2602281",
+            "channel": "The Pet Collective",
+            "link": "https://list.iptvcat.com/my_list/s/a338fe90cffbdd8e7a00767ebfa1e154.m3u8",
+            "country": "united kingdom",
+            "liveliness": "100",
+            "status": "online",
+            "lastChecked": "2022-10-24T00:00:00Z",
+            "format": "hd",
+            "mbps": "5991, ...",
+            "URI": [
+                "united_kingdom_-_-_-_-_-_-_-_-_-_-"
+            ]
+        },
+        {
             "id": "2603247",
             "channel": "Timeline",
             "link": "https://list.iptvcat.com/my_list/s/93e0569fb2ba0131c35ba2a98221f57d.m3u8",
             "country": "united kingdom",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-10-23T00:00:00Z",
+            "lastChecked": "2022-10-24T00:00:00Z",
             "format": "hd",
             "mbps": "5020, ...",
             "URI": [
@@ -2176,7 +2176,7 @@
             "link": "https://list.iptvcat.com/my_list/s/4a959a0fd856a887bfd51fad88d5a5fe.m3u8",
             "country": "united kingdom",
             "liveliness": "98",
-            "status": "offline",
+            "status": "online",
             "lastChecked": "2022-10-24T00:00:00Z",
             "format": "hd",
             "mbps": "5997",
@@ -2191,7 +2191,7 @@
             "country": "united kingdom",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-10-23T00:00:00Z",
+            "lastChecked": "2022-10-24T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
@@ -2205,7 +2205,7 @@
             "country": "united kingdom",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-10-23T00:00:00Z",
+            "lastChecked": "2022-10-24T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -2246,10 +2246,10 @@
             "link": "https://list.iptvcat.com/my_list/s/6deb36aaad01acf642d2208c9884dd27.m3u8",
             "country": "united kingdom",
             "liveliness": "89",
-            "status": "offline",
+            "status": "online",
             "lastChecked": "2022-10-24T00:00:00Z",
             "format": "hd",
-            "mbps": "11126, ...",
+            "mbps": "5020",
             "URI": [
                 "united_kingdom_-_-_-_-_-_-_-_-_-_-"
             ]
@@ -2373,7 +2373,7 @@
             "country": "united kingdom",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-10-23T00:00:00Z",
+            "lastChecked": "2022-10-24T00:00:00Z",
             "format": "hd",
             "mbps": "13311, ...",
             "URI": [
@@ -2387,7 +2387,7 @@
             "country": "united kingdom",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-10-23T00:00:00Z",
+            "lastChecked": "2022-10-24T00:00:00Z",
             "format": "hd",
             "mbps": "5020, ...",
             "URI": [
@@ -2513,7 +2513,7 @@
             "country": "united kingdom",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2022-10-23T00:00:00Z",
+            "lastChecked": "2022-10-24T00:00:00Z",
             "format": "hd",
             "mbps": "3188",
             "URI": [
@@ -2599,7 +2599,7 @@
             "status": "online",
             "lastChecked": "2022-10-24T00:00:00Z",
             "format": "hd",
-            "mbps": "5020, ...",
+            "mbps": "5991, ...",
             "URI": [
                 "united_kingdom_-_-_-_-_-_-_-_-_-_-"
             ]
@@ -2655,7 +2655,7 @@
             "status": "online",
             "lastChecked": "2022-10-24T00:00:00Z",
             "format": "hd",
-            "mbps": "5991, ...",
+            "mbps": "5020, ...",
             "URI": [
                 "united_kingdom_-_-_-_-_-_-_-_-_-_-"
             ]
@@ -2709,9 +2709,9 @@
             "country": "united kingdom",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-10-23T00:00:00Z",
+            "lastChecked": "2022-10-24T00:00:00Z",
             "format": "hd",
-            "mbps": "5020, ...",
+            "mbps": "4821, ...",
             "URI": [
                 "united_kingdom_-_-_-_-_-_-_-_-_-_-"
             ]
@@ -2745,20 +2745,6 @@
             ]
         },
         {
-            "id": "2601321",
-            "channel": "Rakuten TV Documentaires (720p)",
-            "link": "https://list.iptvcat.com/my_list/s/e0f0b9207618e2a18175763ec40abdad.m3u8",
-            "country": "united kingdom",
-            "liveliness": "100",
-            "status": "online",
-            "lastChecked": "2022-10-24T00:00:00Z",
-            "format": "hd",
-            "mbps": "5020, ...",
-            "URI": [
-                "united_kingdom_-_-_-_-_-_-_-_-_-_-"
-            ]
-        },
-        {
             "id": "2601310",
             "channel": "Rakuten TV Documentaires (720p)",
             "link": "https://list.iptvcat.com/my_list/s/53c2c144bb688ee5673df932bdaa0a68.m3u8",
@@ -2768,6 +2754,20 @@
             "lastChecked": "2022-10-24T00:00:00Z",
             "format": "hd",
             "mbps": "11126, ...",
+            "URI": [
+                "united_kingdom_-_-_-_-_-_-_-_-_-_-"
+            ]
+        },
+        {
+            "id": "2601321",
+            "channel": "Rakuten TV Documentaires (720p)",
+            "link": "https://list.iptvcat.com/my_list/s/e0f0b9207618e2a18175763ec40abdad.m3u8",
+            "country": "united kingdom",
+            "liveliness": "100",
+            "status": "online",
+            "lastChecked": "2022-10-24T00:00:00Z",
+            "format": "hd",
+            "mbps": "5020, ...",
             "URI": [
                 "united_kingdom_-_-_-_-_-_-_-_-_-_-"
             ]
@@ -2793,9 +2793,9 @@
             "country": "united kingdom",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-10-23T00:00:00Z",
+            "lastChecked": "2022-10-24T00:00:00Z",
             "format": "hd",
-            "mbps": "5020, ...",
+            "mbps": "5991, ...",
             "URI": [
                 "united_kingdom_-_-_-_-_-_-_-_-_-_-"
             ]
@@ -2823,7 +2823,7 @@
             "status": "online",
             "lastChecked": "2022-10-24T00:00:00Z",
             "format": "hd",
-            "mbps": "4821, ...",
+            "mbps": "5020, ...",
             "URI": [
                 "united_kingdom_-_-_-_-_-_-_-_-_-_-"
             ]
@@ -2851,7 +2851,7 @@
             "status": "online",
             "lastChecked": "2022-10-24T00:00:00Z",
             "format": "hd",
-            "mbps": "5020, ...",
+            "mbps": "4821, ...",
             "URI": [
                 "united_kingdom_-_-_-_-_-_-_-_-_-_-"
             ]
@@ -2863,7 +2863,7 @@
             "country": "united kingdom",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-10-23T00:00:00Z",
+            "lastChecked": "2022-10-24T00:00:00Z",
             "format": "hd",
             "mbps": "5020, ...",
             "URI": [
@@ -2879,7 +2879,7 @@
             "status": "online",
             "lastChecked": "2022-10-24T00:00:00Z",
             "format": "hd",
-            "mbps": "11126, ...",
+            "mbps": "10677, ...",
             "URI": [
                 "united_kingdom_-_-_-_-_-_-_-_-_-_-"
             ]
@@ -2891,7 +2891,7 @@
             "country": "united kingdom",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-10-23T00:00:00Z",
+            "lastChecked": "2022-10-24T00:00:00Z",
             "format": "hd",
             "mbps": "11126, ...",
             "URI": [
@@ -2921,7 +2921,7 @@
             "status": "online",
             "lastChecked": "2022-10-24T00:00:00Z",
             "format": "hd",
-            "mbps": "10677, ...",
+            "mbps": "11126, ...",
             "URI": [
                 "united_kingdom_-_-_-_-_-_-_-_-_-_-"
             ]
@@ -3060,8 +3060,8 @@
             "liveliness": "83",
             "status": "online",
             "lastChecked": "2022-10-24T00:00:00Z",
-            "format": "sd",
-            "mbps": "1124, ...",
+            "format": "hd",
+            "mbps": "3799, ...",
             "URI": [
                 "united_kingdom_-_-_-_-_-_-_-_-_-_-"
             ]
@@ -3241,7 +3241,7 @@
             "country": "united kingdom",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2022-10-23T00:00:00Z",
+            "lastChecked": "2022-10-24T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
@@ -3338,7 +3338,7 @@
             "link": "https://list.iptvcat.com/my_list/s/9598d3def83c9f68ff602ef54257b237.m3u8",
             "country": "united kingdom",
             "liveliness": "63",
-            "status": "online",
+            "status": "offline",
             "lastChecked": "2022-10-24T00:00:00Z",
             "format": "hd",
             "mbps": "3188",
@@ -3353,7 +3353,7 @@
             "country": "united kingdom",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-10-23T00:00:00Z",
+            "lastChecked": "2022-10-24T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
@@ -3421,8 +3421,8 @@
             "channel": "SKY STORE 3",
             "link": "https://list.iptvcat.com/my_list/s/53474ba921c95ddedd88727a6cd0aafe.m3u8",
             "country": "united kingdom",
-            "liveliness": "50",
-            "status": "online",
+            "liveliness": "49",
+            "status": "offline",
             "lastChecked": "2022-10-24T00:00:00Z",
             "format": "hd",
             "mbps": "3795",
@@ -3436,7 +3436,7 @@
             "link": "https://list.iptvcat.com/my_list/s/1ef527b7c0ca63048fbb1205f09c1131.m3u8",
             "country": "united kingdom",
             "liveliness": "58",
-            "status": "online",
+            "status": "offline",
             "lastChecked": "2022-10-24T00:00:00Z",
             "format": "hd",
             "mbps": "3188",
@@ -3759,7 +3759,7 @@
             "country": "united kingdom",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-10-23T00:00:00Z",
+            "lastChecked": "2022-10-24T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -3773,7 +3773,7 @@
             "country": "united kingdom",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-10-23T00:00:00Z",
+            "lastChecked": "2022-10-24T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -3787,7 +3787,7 @@
             "country": "united kingdom",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-10-23T00:00:00Z",
+            "lastChecked": "2022-10-24T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -3801,7 +3801,7 @@
             "country": "united kingdom",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-10-23T00:00:00Z",
+            "lastChecked": "2022-10-24T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -3815,7 +3815,7 @@
             "country": "united kingdom",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-10-23T00:00:00Z",
+            "lastChecked": "2022-10-24T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -3829,7 +3829,7 @@
             "country": "united kingdom",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-10-23T00:00:00Z",
+            "lastChecked": "2022-10-24T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -3883,7 +3883,7 @@
             "channel": "Sky Sport Action HD",
             "link": "https://list.iptvcat.com/my_list/s/7fe0d783a2c409b0d39a3a616d61b9e2.m3u8",
             "country": "united kingdom",
-            "liveliness": "87",
+            "liveliness": "86",
             "status": "offline",
             "lastChecked": "2022-10-24T00:00:00Z",
             "format": "sd",
@@ -3899,9 +3899,9 @@
             "country": "united kingdom",
             "liveliness": "94",
             "status": "online",
-            "lastChecked": "2022-10-23T00:00:00Z",
-            "format": "fhd 2k",
-            "mbps": "7004",
+            "lastChecked": "2022-10-24T00:00:00Z",
+            "format": "hd",
+            "mbps": "5020",
             "URI": [
                 "united_kingdom_-_-_-_-_-_-_-_-_-_-"
             ]
@@ -3914,8 +3914,8 @@
             "liveliness": "90",
             "status": "online",
             "lastChecked": "2022-10-24T00:00:00Z",
-            "format": "hd",
-            "mbps": "3188",
+            "format": "fhd 2k",
+            "mbps": "13873",
             "URI": [
                 "united_kingdom_-_-_-_-_-_-_-_-_-_-"
             ]
@@ -3925,8 +3925,8 @@
             "channel": "Sky Sport News",
             "link": "https://list.iptvcat.com/my_list/s/2db57f5624802c1cc59f210d0ca299ac.m3u8",
             "country": "united kingdom",
-            "liveliness": "92",
-            "status": "online",
+            "liveliness": "90",
+            "status": "offline",
             "lastChecked": "2022-10-24T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
@@ -3942,8 +3942,8 @@
             "liveliness": "92",
             "status": "online",
             "lastChecked": "2022-10-24T00:00:00Z",
-            "format": "hd",
-            "mbps": "6241",
+            "format": "sd",
+            "mbps": "2334",
             "URI": [
                 "united_kingdom_-_-_-_-_-_-_-_-_-_-"
             ]
@@ -3956,8 +3956,8 @@
             "liveliness": "92",
             "status": "online",
             "lastChecked": "2022-10-24T00:00:00Z",
-            "format": "fhd 2k",
-            "mbps": "11126",
+            "format": "hd",
+            "mbps": "6241",
             "URI": [
                 "united_kingdom_-_-_-_-_-_-_-_-_-_-"
             ]
@@ -3967,8 +3967,8 @@
             "channel": "Midpen Media Center Government etc Channel 29 (720p)",
             "link": "https://list.iptvcat.com/my_list/s/8cd781c4a4378a0fd0d91e0c24921b6e.m3u8",
             "country": "united kingdom",
-            "liveliness": "95",
-            "status": "offline",
+            "liveliness": "94",
+            "status": "online",
             "lastChecked": "2022-10-24T00:00:00Z",
             "format": "hd",
             "mbps": "3795, ...",
@@ -3981,8 +3981,8 @@
             "channel": "Midpen Media Center Youth Education and Sports Channel 28 (720p)",
             "link": "https://list.iptvcat.com/my_list/s/47d7af5273ea8f7ea6f9b8d3943cc07f.m3u8",
             "country": "united kingdom",
-            "liveliness": "84",
-            "status": "offline",
+            "liveliness": "85",
+            "status": "online",
             "lastChecked": "2022-10-24T00:00:00Z",
             "format": "hd",
             "mbps": "3795, ...",
@@ -4025,7 +4025,7 @@
             "country": "united kingdom",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-10-23T00:00:00Z",
+            "lastChecked": "2022-10-24T00:00:00Z",
             "format": "hd",
             "mbps": "5991, ...",
             "URI": [
@@ -4123,7 +4123,7 @@
             "country": "united kingdom",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-10-23T00:00:00Z",
+            "lastChecked": "2022-10-24T00:00:00Z",
             "format": "hd",
             "mbps": "3188, ...",
             "URI": [
@@ -4179,7 +4179,7 @@
             "country": "united kingdom",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-10-23T00:00:00Z",
+            "lastChecked": "2022-10-24T00:00:00Z",
             "format": "hd",
             "mbps": "3795",
             "URI": [
@@ -4279,7 +4279,7 @@
             "status": "online",
             "lastChecked": "2022-10-24T00:00:00Z",
             "format": "sd",
-            "mbps": "1704",
+            "mbps": "1706",
             "URI": [
                 "united_kingdom_-_-_-_-_-_-_-_-_-_-"
             ]
@@ -4321,7 +4321,7 @@
             "status": "online",
             "lastChecked": "2022-10-24T00:00:00Z",
             "format": "hd",
-            "mbps": "4311",
+            "mbps": "4322",
             "URI": [
                 "united_kingdom_-_-_-_-_-_-_-_-_-_-"
             ]
@@ -4657,7 +4657,7 @@
             "status": "online",
             "lastChecked": "2022-10-24T00:00:00Z",
             "format": "hd",
-            "mbps": "4311",
+            "mbps": "4318",
             "URI": [
                 "united_kingdom_-_-_-_-_-_-_-_-_-_-"
             ]
@@ -4711,7 +4711,7 @@
             "country": "united kingdom",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-10-23T00:00:00Z",
+            "lastChecked": "2022-10-24T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -5203,7 +5203,7 @@
             "status": "online",
             "lastChecked": "2022-10-24T00:00:00Z",
             "format": "hd",
-            "mbps": "4821, ...",
+            "mbps": "5020, ...",
             "URI": [
                 "united_kingdom_-_-_-_-_-_-_-_-_-_-"
             ]
@@ -5231,7 +5231,7 @@
             "status": "online",
             "lastChecked": "2022-10-24T00:00:00Z",
             "format": "hd",
-            "mbps": "5020, ...",
+            "mbps": "4821, ...",
             "URI": [
                 "united_kingdom_-_-_-_-_-_-_-_-_-_-"
             ]
@@ -5299,7 +5299,7 @@
             "country": "united kingdom",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-10-23T00:00:00Z",
+            "lastChecked": "2022-10-24T00:00:00Z",
             "format": "hd",
             "mbps": "10677, ...",
             "URI": [
@@ -5313,7 +5313,7 @@
             "country": "united kingdom",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-10-23T00:00:00Z",
+            "lastChecked": "2022-10-24T00:00:00Z",
             "format": "hd",
             "mbps": "5020, ...",
             "URI": [
@@ -5329,7 +5329,7 @@
             "status": "online",
             "lastChecked": "2022-10-24T00:00:00Z",
             "format": "hd",
-            "mbps": "5020, ...",
+            "mbps": "4821, ...",
             "URI": [
                 "united_kingdom_-_-_-_-_-_-_-_-_-_-"
             ]
@@ -5357,7 +5357,7 @@
             "status": "online",
             "lastChecked": "2022-10-24T00:00:00Z",
             "format": "hd",
-            "mbps": "4821, ...",
+            "mbps": "5020, ...",
             "URI": [
                 "united_kingdom_-_-_-_-_-_-_-_-_-_-"
             ]
@@ -5397,7 +5397,7 @@
             "country": "united kingdom",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2022-10-23T00:00:00Z",
+            "lastChecked": "2022-10-24T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
@@ -5466,7 +5466,7 @@
             "link": "https://list.iptvcat.com/my_list/s/4009e225ab7a45f4c081ea60b785857e.m3u8",
             "country": "united kingdom",
             "liveliness": "97",
-            "status": "offline",
+            "status": "online",
             "lastChecked": "2022-10-24T00:00:00Z",
             "format": "sd",
             "mbps": "1509",
@@ -5495,7 +5495,7 @@
             "country": "united kingdom",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2022-10-23T00:00:00Z",
+            "lastChecked": "2022-10-24T00:00:00Z",
             "format": "hd",
             "mbps": "4318, ...",
             "URI": [
@@ -5706,8 +5706,8 @@
             "liveliness": "100",
             "status": "online",
             "lastChecked": "2022-10-24T00:00:00Z",
-            "format": "hd",
-            "mbps": "11126, ...",
+            "format": "sd",
+            "mbps": "2883",
             "URI": [
                 "united_kingdom_-_-_-_-_-_-_-_-_-_-"
             ]
@@ -5735,7 +5735,7 @@
             "status": "online",
             "lastChecked": "2022-10-24T00:00:00Z",
             "format": "sd",
-            "mbps": "1702",
+            "mbps": "1706",
             "URI": [
                 "united_kingdom_-_-_-_-_-_-_-_-_-_-"
             ]
@@ -5789,7 +5789,7 @@
             "country": "united kingdom",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2022-10-23T00:00:00Z",
+            "lastChecked": "2022-10-24T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
@@ -5923,20 +5923,6 @@
             ]
         },
         {
-            "id": "2585561",
-            "channel": "DISNEY CHANNEL",
-            "link": "https://list.iptvcat.com/my_list/s/09af125ed25ccbb25f5f1b7be9ca3c03.m3u8",
-            "country": "united kingdom",
-            "liveliness": "95",
-            "status": "online",
-            "lastChecked": "2022-10-24T00:00:00Z",
-            "format": "hd",
-            "mbps": "5991",
-            "URI": [
-                "united_kingdom_-_-_-_-_-_-_-_-_-_-"
-            ]
-        },
-        {
             "id": "2497185",
             "channel": "DISNEY CHANNEL",
             "link": "https://list.iptvcat.com/my_list/s/ce6fe9d17ab73b79c1616b0e4b4f1c34.m3u8",
@@ -5946,6 +5932,20 @@
             "lastChecked": "2022-10-24T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
+            "URI": [
+                "united_kingdom_-_-_-_-_-_-_-_-_-_-"
+            ]
+        },
+        {
+            "id": "2585561",
+            "channel": "DISNEY CHANNEL",
+            "link": "https://list.iptvcat.com/my_list/s/09af125ed25ccbb25f5f1b7be9ca3c03.m3u8",
+            "country": "united kingdom",
+            "liveliness": "95",
+            "status": "online",
+            "lastChecked": "2022-10-24T00:00:00Z",
+            "format": "hd",
+            "mbps": "5991",
             "URI": [
                 "united_kingdom_-_-_-_-_-_-_-_-_-_-"
             ]
@@ -6041,7 +6041,7 @@
             "country": "united kingdom",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-10-23T00:00:00Z",
+            "lastChecked": "2022-10-24T00:00:00Z",
             "format": "hd",
             "mbps": "3188, ...",
             "URI": [
@@ -6209,7 +6209,7 @@
             "country": "united kingdom",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-10-23T00:00:00Z",
+            "lastChecked": "2022-10-24T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -6251,7 +6251,7 @@
             "country": "united kingdom",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2022-10-23T00:00:00Z",
+            "lastChecked": "2022-10-24T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
@@ -6265,7 +6265,7 @@
             "country": "united kingdom",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-10-23T00:00:00Z",
+            "lastChecked": "2022-10-24T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -6293,7 +6293,7 @@
             "country": "united kingdom",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-10-23T00:00:00Z",
+            "lastChecked": "2022-10-24T00:00:00Z",
             "format": "hd",
             "mbps": "5020, ...",
             "URI": [
@@ -6306,7 +6306,7 @@
             "link": "https://list.iptvcat.com/my_list/s/9773ee0c3d55acd8f063e87926217e20.m3u8",
             "country": "united kingdom",
             "liveliness": "91",
-            "status": "offline",
+            "status": "online",
             "lastChecked": "2022-10-24T00:00:00Z",
             "format": "sd",
             "mbps": "6023",
@@ -6363,7 +6363,7 @@
             "country": "united kingdom",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-10-23T00:00:00Z",
+            "lastChecked": "2022-10-24T00:00:00Z",
             "format": "sd",
             "mbps": "3262",
             "URI": [
@@ -6446,7 +6446,7 @@
             "link": "https://list.iptvcat.com/my_list/s/fabbe3ee39e4d856437ee0ee4264f30c.m3u8",
             "country": "united kingdom",
             "liveliness": "64",
-            "status": "offline",
+            "status": "online",
             "lastChecked": "2022-10-24T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "13311",
@@ -6475,7 +6475,7 @@
             "country": "united kingdom",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2022-10-23T00:00:00Z",
+            "lastChecked": "2022-10-24T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
@@ -6491,7 +6491,7 @@
             "status": "online",
             "lastChecked": "2022-10-24T00:00:00Z",
             "format": "sd",
-            "mbps": "1509",
+            "mbps": "2285",
             "URI": [
                 "united_kingdom_-_-_-_-_-_-_-_-_-_-"
             ]
@@ -6629,7 +6629,7 @@
             "country": "united kingdom",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-10-23T00:00:00Z",
+            "lastChecked": "2022-10-24T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -6713,7 +6713,7 @@
             "country": "united kingdom",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-10-23T00:00:00Z",
+            "lastChecked": "2022-10-24T00:00:00Z",
             "format": "hd",
             "mbps": "5997, ...",
             "URI": [
@@ -6755,7 +6755,7 @@
             "country": "united kingdom",
             "liveliness": "98",
             "status": "online",
-            "lastChecked": "2022-10-23T00:00:00Z",
+            "lastChecked": "2022-10-24T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
@@ -6783,7 +6783,7 @@
             "country": "united kingdom",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-10-23T00:00:00Z",
+            "lastChecked": "2022-10-24T00:00:00Z",
             "format": "hd",
             "mbps": "3188",
             "URI": [
@@ -6810,7 +6810,7 @@
             "link": "https://list.iptvcat.com/my_list/s/5d6e124a28c79fd6630c8d323263bac8.m3u8",
             "country": "united kingdom",
             "liveliness": "82",
-            "status": "online",
+            "status": "offline",
             "lastChecked": "2022-10-24T00:00:00Z",
             "format": "sd",
             "mbps": "2285",
@@ -6868,8 +6868,8 @@
             "liveliness": "85",
             "status": "online",
             "lastChecked": "2022-10-24T00:00:00Z",
-            "format": "fhd 2k",
-            "mbps": "11126",
+            "format": "sd",
+            "mbps": "1509",
             "URI": [
                 "united_kingdom_-_-_-_-_-_-_-_-_-_-"
             ]
@@ -6967,7 +6967,7 @@
             "status": "online",
             "lastChecked": "2022-10-24T00:00:00Z",
             "format": "hd",
-            "mbps": "3188, ...",
+            "mbps": "3188",
             "URI": [
                 "united_kingdom_-_-_-_-_-_-_-_-_-_-"
             ]
@@ -6979,7 +6979,7 @@
             "country": "united kingdom",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2022-10-23T00:00:00Z",
+            "lastChecked": "2022-10-24T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "11126",
             "URI": [
@@ -7099,13 +7099,27 @@
             ]
         },
         {
+            "id": "2585419",
+            "channel": "BBC 1",
+            "link": "https://list.iptvcat.com/my_list/s/77c4a7a66dee2096fc12c9b7be1b8488.m3u8",
+            "country": "united kingdom",
+            "liveliness": "93",
+            "status": "online",
+            "lastChecked": "2022-10-24T00:00:00Z",
+            "format": "fhd 2k",
+            "mbps": "11126",
+            "URI": [
+                "united_kingdom_-_-_-_-_-_-_-_-_-_-"
+            ]
+        },
+        {
             "id": "2497113",
             "channel": "BBC 1",
             "link": "https://list.iptvcat.com/my_list/s/056befbe5137c0a283e7f0b9dd7f60a4.m3u8",
             "country": "united kingdom",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2022-10-23T00:00:00Z",
+            "lastChecked": "2022-10-24T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
@@ -7122,20 +7136,6 @@
             "lastChecked": "2022-10-24T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
-            "URI": [
-                "united_kingdom_-_-_-_-_-_-_-_-_-_-"
-            ]
-        },
-        {
-            "id": "2585419",
-            "channel": "BBC 1",
-            "link": "https://list.iptvcat.com/my_list/s/77c4a7a66dee2096fc12c9b7be1b8488.m3u8",
-            "country": "united kingdom",
-            "liveliness": "93",
-            "status": "online",
-            "lastChecked": "2022-10-24T00:00:00Z",
-            "format": "fhd 2k",
-            "mbps": "11126",
             "URI": [
                 "united_kingdom_-_-_-_-_-_-_-_-_-_-"
             ]
@@ -7329,7 +7329,7 @@
             "country": "united kingdom",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2022-10-23T00:00:00Z",
+            "lastChecked": "2022-10-24T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
@@ -7399,7 +7399,7 @@
             "country": "united kingdom",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-10-23T00:00:00Z",
+            "lastChecked": "2022-10-24T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -7525,7 +7525,7 @@
             "country": "united kingdom",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-10-23T00:00:00Z",
+            "lastChecked": "2022-10-24T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -7623,7 +7623,7 @@
             "country": "united kingdom",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2022-10-23T00:00:00Z",
+            "lastChecked": "2022-10-24T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
@@ -7649,7 +7649,7 @@
             "channel": "BT Sport 2 HD",
             "link": "https://list.iptvcat.com/my_list/s/7123ccd6cffe41c3ce4ed90eb631c7c2.m3u8",
             "country": "united kingdom",
-            "liveliness": "72",
+            "liveliness": "69",
             "status": "offline",
             "lastChecked": "2022-10-24T00:00:00Z",
             "format": "fhd 2k",
@@ -7694,8 +7694,8 @@
             "liveliness": "92",
             "status": "online",
             "lastChecked": "2022-10-24T00:00:00Z",
-            "format": "fhd 2k",
-            "mbps": "13873",
+            "format": "hd",
+            "mbps": "5020",
             "URI": [
                 "united_kingdom_-_-_-_-_-_-_-_-_-_-"
             ]
@@ -7719,11 +7719,11 @@
             "channel": "BT Sport Extra 3",
             "link": "https://list.iptvcat.com/my_list/s/1bbed5a948ecb1663d306f623055607b.m3u8",
             "country": "united kingdom",
-            "liveliness": "90",
+            "liveliness": "91",
             "status": "online",
             "lastChecked": "2022-10-24T00:00:00Z",
-            "format": "fhd 2k",
-            "mbps": "13873",
+            "format": "hd",
+            "mbps": "5020",
             "URI": [
                 "united_kingdom_-_-_-_-_-_-_-_-_-_-"
             ]
@@ -7931,7 +7931,7 @@
             "country": "united kingdom",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-10-23T00:00:00Z",
+            "lastChecked": "2022-10-24T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -7945,7 +7945,7 @@
             "country": "united kingdom",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-10-23T00:00:00Z",
+            "lastChecked": "2022-10-24T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
@@ -8071,7 +8071,7 @@
             "country": "united kingdom",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-10-23T00:00:00Z",
+            "lastChecked": "2022-10-24T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -8085,7 +8085,7 @@
             "country": "united kingdom",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-10-23T00:00:00Z",
+            "lastChecked": "2022-10-24T00:00:00Z",
             "format": "hd",
             "mbps": "5991, ...",
             "URI": [
@@ -8167,8 +8167,8 @@
             "channel": "Midpen Media Center Government etc Channel 29 (720p)",
             "link": "https://list.iptvcat.com/my_list/s/8cd781c4a4378a0fd0d91e0c24921b6e.m3u8",
             "country": "united kingdom",
-            "liveliness": "95",
-            "status": "offline",
+            "liveliness": "94",
+            "status": "online",
             "lastChecked": "2022-10-24T00:00:00Z",
             "format": "hd",
             "mbps": "3795, ...",
@@ -8181,8 +8181,8 @@
             "channel": "Midpen Media Center Youth Education and Sports Channel 28 (720p)",
             "link": "https://list.iptvcat.com/my_list/s/47d7af5273ea8f7ea6f9b8d3943cc07f.m3u8",
             "country": "united kingdom",
-            "liveliness": "84",
-            "status": "offline",
+            "liveliness": "85",
+            "status": "online",
             "lastChecked": "2022-10-24T00:00:00Z",
             "format": "hd",
             "mbps": "3795, ...",
@@ -8225,7 +8225,7 @@
             "country": "united kingdom",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-10-23T00:00:00Z",
+            "lastChecked": "2022-10-24T00:00:00Z",
             "format": "hd",
             "mbps": "5991, ...",
             "URI": [
@@ -8323,7 +8323,7 @@
             "country": "united kingdom",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-10-23T00:00:00Z",
+            "lastChecked": "2022-10-24T00:00:00Z",
             "format": "hd",
             "mbps": "3188, ...",
             "URI": [
@@ -8379,7 +8379,7 @@
             "country": "united kingdom",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-10-23T00:00:00Z",
+            "lastChecked": "2022-10-24T00:00:00Z",
             "format": "hd",
             "mbps": "3795",
             "URI": [
@@ -8479,7 +8479,7 @@
             "status": "online",
             "lastChecked": "2022-10-24T00:00:00Z",
             "format": "sd",
-            "mbps": "1704",
+            "mbps": "1706",
             "URI": [
                 "united_kingdom_-_-_-_-_-_-_-_-_-_-"
             ]
@@ -8521,7 +8521,7 @@
             "status": "online",
             "lastChecked": "2022-10-24T00:00:00Z",
             "format": "hd",
-            "mbps": "4311",
+            "mbps": "4322",
             "URI": [
                 "united_kingdom_-_-_-_-_-_-_-_-_-_-"
             ]
@@ -8857,7 +8857,7 @@
             "status": "online",
             "lastChecked": "2022-10-24T00:00:00Z",
             "format": "hd",
-            "mbps": "4311",
+            "mbps": "4318",
             "URI": [
                 "united_kingdom_-_-_-_-_-_-_-_-_-_-"
             ]
@@ -8911,7 +8911,7 @@
             "country": "united kingdom",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-10-23T00:00:00Z",
+            "lastChecked": "2022-10-24T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -9403,7 +9403,7 @@
             "status": "online",
             "lastChecked": "2022-10-24T00:00:00Z",
             "format": "hd",
-            "mbps": "4821, ...",
+            "mbps": "5020, ...",
             "URI": [
                 "united_kingdom_-_-_-_-_-_-_-_-_-_-"
             ]
@@ -9431,7 +9431,7 @@
             "status": "online",
             "lastChecked": "2022-10-24T00:00:00Z",
             "format": "hd",
-            "mbps": "5020, ...",
+            "mbps": "4821, ...",
             "URI": [
                 "united_kingdom_-_-_-_-_-_-_-_-_-_-"
             ]
@@ -9499,7 +9499,7 @@
             "country": "united kingdom",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-10-23T00:00:00Z",
+            "lastChecked": "2022-10-24T00:00:00Z",
             "format": "hd",
             "mbps": "10677, ...",
             "URI": [
@@ -9513,7 +9513,7 @@
             "country": "united kingdom",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-10-23T00:00:00Z",
+            "lastChecked": "2022-10-24T00:00:00Z",
             "format": "hd",
             "mbps": "5020, ...",
             "URI": [
@@ -9529,7 +9529,7 @@
             "status": "online",
             "lastChecked": "2022-10-24T00:00:00Z",
             "format": "hd",
-            "mbps": "5020, ...",
+            "mbps": "4821, ...",
             "URI": [
                 "united_kingdom_-_-_-_-_-_-_-_-_-_-"
             ]
@@ -9557,7 +9557,7 @@
             "status": "online",
             "lastChecked": "2022-10-24T00:00:00Z",
             "format": "hd",
-            "mbps": "4821, ...",
+            "mbps": "5020, ...",
             "URI": [
                 "united_kingdom_-_-_-_-_-_-_-_-_-_-"
             ]
@@ -9599,7 +9599,7 @@
             "status": "online",
             "lastChecked": "2022-10-24T00:00:00Z",
             "format": "hd",
-            "mbps": "5020, ...",
+            "mbps": "5991, ...",
             "URI": [
                 "united_kingdom_-_-_-_-_-_-_-_-_-_-"
             ]
@@ -9655,7 +9655,7 @@
             "status": "online",
             "lastChecked": "2022-10-24T00:00:00Z",
             "format": "hd",
-            "mbps": "5991, ...",
+            "mbps": "5020, ...",
             "URI": [
                 "united_kingdom_-_-_-_-_-_-_-_-_-_-"
             ]
@@ -9709,9 +9709,9 @@
             "country": "united kingdom",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-10-23T00:00:00Z",
+            "lastChecked": "2022-10-24T00:00:00Z",
             "format": "hd",
-            "mbps": "5020, ...",
+            "mbps": "4821, ...",
             "URI": [
                 "united_kingdom_-_-_-_-_-_-_-_-_-_-"
             ]
@@ -9745,20 +9745,6 @@
             ]
         },
         {
-            "id": "2601321",
-            "channel": "Rakuten TV Documentaires (720p)",
-            "link": "https://list.iptvcat.com/my_list/s/e0f0b9207618e2a18175763ec40abdad.m3u8",
-            "country": "united kingdom",
-            "liveliness": "100",
-            "status": "online",
-            "lastChecked": "2022-10-24T00:00:00Z",
-            "format": "hd",
-            "mbps": "5020, ...",
-            "URI": [
-                "united_kingdom_-_-_-_-_-_-_-_-_-_-"
-            ]
-        },
-        {
             "id": "2601310",
             "channel": "Rakuten TV Documentaires (720p)",
             "link": "https://list.iptvcat.com/my_list/s/53c2c144bb688ee5673df932bdaa0a68.m3u8",
@@ -9768,6 +9754,20 @@
             "lastChecked": "2022-10-24T00:00:00Z",
             "format": "hd",
             "mbps": "11126, ...",
+            "URI": [
+                "united_kingdom_-_-_-_-_-_-_-_-_-_-"
+            ]
+        },
+        {
+            "id": "2601321",
+            "channel": "Rakuten TV Documentaires (720p)",
+            "link": "https://list.iptvcat.com/my_list/s/e0f0b9207618e2a18175763ec40abdad.m3u8",
+            "country": "united kingdom",
+            "liveliness": "100",
+            "status": "online",
+            "lastChecked": "2022-10-24T00:00:00Z",
+            "format": "hd",
+            "mbps": "5020, ...",
             "URI": [
                 "united_kingdom_-_-_-_-_-_-_-_-_-_-"
             ]
@@ -9793,9 +9793,9 @@
             "country": "united kingdom",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-10-23T00:00:00Z",
+            "lastChecked": "2022-10-24T00:00:00Z",
             "format": "hd",
-            "mbps": "5020, ...",
+            "mbps": "5991, ...",
             "URI": [
                 "united_kingdom_-_-_-_-_-_-_-_-_-_-"
             ]
@@ -9823,7 +9823,7 @@
             "status": "online",
             "lastChecked": "2022-10-24T00:00:00Z",
             "format": "hd",
-            "mbps": "4821, ...",
+            "mbps": "5020, ...",
             "URI": [
                 "united_kingdom_-_-_-_-_-_-_-_-_-_-"
             ]
@@ -9851,7 +9851,7 @@
             "status": "online",
             "lastChecked": "2022-10-24T00:00:00Z",
             "format": "hd",
-            "mbps": "5020, ...",
+            "mbps": "4821, ...",
             "URI": [
                 "united_kingdom_-_-_-_-_-_-_-_-_-_-"
             ]
@@ -9863,7 +9863,7 @@
             "country": "united kingdom",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-10-23T00:00:00Z",
+            "lastChecked": "2022-10-24T00:00:00Z",
             "format": "hd",
             "mbps": "5020, ...",
             "URI": [
@@ -9879,7 +9879,7 @@
             "status": "online",
             "lastChecked": "2022-10-24T00:00:00Z",
             "format": "hd",
-            "mbps": "11126, ...",
+            "mbps": "10677, ...",
             "URI": [
                 "united_kingdom_-_-_-_-_-_-_-_-_-_-"
             ]
@@ -9891,7 +9891,7 @@
             "country": "united kingdom",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-10-23T00:00:00Z",
+            "lastChecked": "2022-10-24T00:00:00Z",
             "format": "hd",
             "mbps": "11126, ...",
             "URI": [
@@ -9921,7 +9921,7 @@
             "status": "online",
             "lastChecked": "2022-10-24T00:00:00Z",
             "format": "hd",
-            "mbps": "10677, ...",
+            "mbps": "11126, ...",
             "URI": [
                 "united_kingdom_-_-_-_-_-_-_-_-_-_-"
             ]
@@ -10060,8 +10060,8 @@
             "liveliness": "83",
             "status": "online",
             "lastChecked": "2022-10-24T00:00:00Z",
-            "format": "sd",
-            "mbps": "1124, ...",
+            "format": "hd",
+            "mbps": "3799, ...",
             "URI": [
                 "united_kingdom_-_-_-_-_-_-_-_-_-_-"
             ]
@@ -10241,7 +10241,7 @@
             "country": "united kingdom",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2022-10-23T00:00:00Z",
+            "lastChecked": "2022-10-24T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
@@ -10338,7 +10338,7 @@
             "link": "https://list.iptvcat.com/my_list/s/9598d3def83c9f68ff602ef54257b237.m3u8",
             "country": "united kingdom",
             "liveliness": "63",
-            "status": "online",
+            "status": "offline",
             "lastChecked": "2022-10-24T00:00:00Z",
             "format": "hd",
             "mbps": "3188",
@@ -10353,7 +10353,7 @@
             "country": "united kingdom",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-10-23T00:00:00Z",
+            "lastChecked": "2022-10-24T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
@@ -10421,8 +10421,8 @@
             "channel": "SKY STORE 3",
             "link": "https://list.iptvcat.com/my_list/s/53474ba921c95ddedd88727a6cd0aafe.m3u8",
             "country": "united kingdom",
-            "liveliness": "50",
-            "status": "online",
+            "liveliness": "49",
+            "status": "offline",
             "lastChecked": "2022-10-24T00:00:00Z",
             "format": "hd",
             "mbps": "3795",
@@ -10436,7 +10436,7 @@
             "link": "https://list.iptvcat.com/my_list/s/1ef527b7c0ca63048fbb1205f09c1131.m3u8",
             "country": "united kingdom",
             "liveliness": "58",
-            "status": "online",
+            "status": "offline",
             "lastChecked": "2022-10-24T00:00:00Z",
             "format": "hd",
             "mbps": "3188",
@@ -10759,7 +10759,7 @@
             "country": "united kingdom",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-10-23T00:00:00Z",
+            "lastChecked": "2022-10-24T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -10773,7 +10773,7 @@
             "country": "united kingdom",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-10-23T00:00:00Z",
+            "lastChecked": "2022-10-24T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -10787,7 +10787,7 @@
             "country": "united kingdom",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-10-23T00:00:00Z",
+            "lastChecked": "2022-10-24T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -10801,7 +10801,7 @@
             "country": "united kingdom",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-10-23T00:00:00Z",
+            "lastChecked": "2022-10-24T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -10815,7 +10815,7 @@
             "country": "united kingdom",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-10-23T00:00:00Z",
+            "lastChecked": "2022-10-24T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -10829,7 +10829,7 @@
             "country": "united kingdom",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-10-23T00:00:00Z",
+            "lastChecked": "2022-10-24T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -10883,7 +10883,7 @@
             "channel": "Sky Sport Action HD",
             "link": "https://list.iptvcat.com/my_list/s/7fe0d783a2c409b0d39a3a616d61b9e2.m3u8",
             "country": "united kingdom",
-            "liveliness": "87",
+            "liveliness": "86",
             "status": "offline",
             "lastChecked": "2022-10-24T00:00:00Z",
             "format": "sd",
@@ -10899,9 +10899,9 @@
             "country": "united kingdom",
             "liveliness": "94",
             "status": "online",
-            "lastChecked": "2022-10-23T00:00:00Z",
-            "format": "fhd 2k",
-            "mbps": "7004",
+            "lastChecked": "2022-10-24T00:00:00Z",
+            "format": "hd",
+            "mbps": "5020",
             "URI": [
                 "united_kingdom_-_-_-_-_-_-_-_-_-_-"
             ]
@@ -10914,8 +10914,8 @@
             "liveliness": "90",
             "status": "online",
             "lastChecked": "2022-10-24T00:00:00Z",
-            "format": "hd",
-            "mbps": "3188",
+            "format": "fhd 2k",
+            "mbps": "13873",
             "URI": [
                 "united_kingdom_-_-_-_-_-_-_-_-_-_-"
             ]
@@ -10925,8 +10925,8 @@
             "channel": "Sky Sport News",
             "link": "https://list.iptvcat.com/my_list/s/2db57f5624802c1cc59f210d0ca299ac.m3u8",
             "country": "united kingdom",
-            "liveliness": "92",
-            "status": "online",
+            "liveliness": "90",
+            "status": "offline",
             "lastChecked": "2022-10-24T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
@@ -10942,8 +10942,8 @@
             "liveliness": "92",
             "status": "online",
             "lastChecked": "2022-10-24T00:00:00Z",
-            "format": "hd",
-            "mbps": "6241",
+            "format": "sd",
+            "mbps": "2334",
             "URI": [
                 "united_kingdom_-_-_-_-_-_-_-_-_-_-"
             ]
@@ -10956,16 +10956,16 @@
             "liveliness": "92",
             "status": "online",
             "lastChecked": "2022-10-24T00:00:00Z",
-            "format": "fhd 2k",
-            "mbps": "11126",
+            "format": "hd",
+            "mbps": "6241",
             "URI": [
                 "united_kingdom_-_-_-_-_-_-_-_-_-_-"
             ]
         },
         {
-            "id": "2497289",
+            "id": "2497288",
             "channel": "Sky Sports Action",
-            "link": "https://list.iptvcat.com/my_list/s/e88db7857578c14861dc964c18447f5f.m3u8",
+            "link": "https://list.iptvcat.com/my_list/s/c74062f240c3916db1dbe0370330a458.m3u8",
             "country": "united kingdom",
             "liveliness": "99",
             "status": "online",
@@ -10977,9 +10977,9 @@
             ]
         },
         {
-            "id": "2497288",
+            "id": "2497289",
             "channel": "Sky Sports Action",
-            "link": "https://list.iptvcat.com/my_list/s/c74062f240c3916db1dbe0370330a458.m3u8",
+            "link": "https://list.iptvcat.com/my_list/s/e88db7857578c14861dc964c18447f5f.m3u8",
             "country": "united kingdom",
             "liveliness": "99",
             "status": "online",
@@ -11097,7 +11097,7 @@
             "status": "online",
             "lastChecked": "2022-10-24T00:00:00Z",
             "format": "hd",
-            "mbps": "11126, ...",
+            "mbps": "5020, ...",
             "URI": [
                 "united_kingdom_-_-_-_-_-_-_-_-_-_-"
             ]
@@ -11487,7 +11487,7 @@
             "country": "united kingdom",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-10-23T00:00:00Z",
+            "lastChecked": "2022-10-24T00:00:00Z",
             "format": "hd",
             "mbps": "5991, ...",
             "URI": [
@@ -11543,23 +11543,9 @@
             "country": "united kingdom",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-10-23T00:00:00Z",
-            "format": "hd",
-            "mbps": "5020, ...",
-            "URI": [
-                "united_kingdom_-_-_-_-_-_-_-_-_-_-"
-            ]
-        },
-        {
-            "id": "2602281",
-            "channel": "The Pet Collective",
-            "link": "https://list.iptvcat.com/my_list/s/a338fe90cffbdd8e7a00767ebfa1e154.m3u8",
-            "country": "united kingdom",
-            "liveliness": "100",
-            "status": "online",
             "lastChecked": "2022-10-24T00:00:00Z",
             "format": "hd",
-            "mbps": "5991, ...",
+            "mbps": "5020, ...",
             "URI": [
                 "united_kingdom_-_-_-_-_-_-_-_-_-_-"
             ]
@@ -11593,13 +11579,27 @@
             ]
         },
         {
+            "id": "2602281",
+            "channel": "The Pet Collective",
+            "link": "https://list.iptvcat.com/my_list/s/a338fe90cffbdd8e7a00767ebfa1e154.m3u8",
+            "country": "united kingdom",
+            "liveliness": "100",
+            "status": "online",
+            "lastChecked": "2022-10-24T00:00:00Z",
+            "format": "hd",
+            "mbps": "5991, ...",
+            "URI": [
+                "united_kingdom_-_-_-_-_-_-_-_-_-_-"
+            ]
+        },
+        {
             "id": "2603247",
             "channel": "Timeline",
             "link": "https://list.iptvcat.com/my_list/s/93e0569fb2ba0131c35ba2a98221f57d.m3u8",
             "country": "united kingdom",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-10-23T00:00:00Z",
+            "lastChecked": "2022-10-24T00:00:00Z",
             "format": "hd",
             "mbps": "5020, ...",
             "URI": [
@@ -11738,7 +11738,7 @@
             "link": "https://list.iptvcat.com/my_list/s/4a959a0fd856a887bfd51fad88d5a5fe.m3u8",
             "country": "united kingdom",
             "liveliness": "98",
-            "status": "offline",
+            "status": "online",
             "lastChecked": "2022-10-24T00:00:00Z",
             "format": "hd",
             "mbps": "5997",
@@ -11753,7 +11753,7 @@
             "country": "united kingdom",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-10-23T00:00:00Z",
+            "lastChecked": "2022-10-24T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
@@ -11767,7 +11767,7 @@
             "country": "united kingdom",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-10-23T00:00:00Z",
+            "lastChecked": "2022-10-24T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -11808,10 +11808,10 @@
             "link": "https://list.iptvcat.com/my_list/s/6deb36aaad01acf642d2208c9884dd27.m3u8",
             "country": "united kingdom",
             "liveliness": "89",
-            "status": "offline",
+            "status": "online",
             "lastChecked": "2022-10-24T00:00:00Z",
             "format": "hd",
-            "mbps": "11126, ...",
+            "mbps": "5020",
             "URI": [
                 "united_kingdom_-_-_-_-_-_-_-_-_-_-"
             ]
@@ -11935,7 +11935,7 @@
             "country": "united kingdom",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-10-23T00:00:00Z",
+            "lastChecked": "2022-10-24T00:00:00Z",
             "format": "hd",
             "mbps": "13311, ...",
             "URI": [
@@ -11949,7 +11949,7 @@
             "country": "united kingdom",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-10-23T00:00:00Z",
+            "lastChecked": "2022-10-24T00:00:00Z",
             "format": "hd",
             "mbps": "5020, ...",
             "URI": [
@@ -12075,7 +12075,7 @@
             "country": "united kingdom",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2022-10-23T00:00:00Z",
+            "lastChecked": "2022-10-24T00:00:00Z",
             "format": "hd",
             "mbps": "3188",
             "URI": [
@@ -12173,7 +12173,7 @@
             "country": "united kingdom",
             "liveliness": "96",
             "status": "online",
-            "lastChecked": "2022-10-23T00:00:00Z",
+            "lastChecked": "2022-10-24T00:00:00Z",
             "format": "sd",
             "mbps": "624",
             "URI": [
@@ -12187,7 +12187,7 @@
             "country": "united kingdom",
             "liveliness": "94",
             "status": "online",
-            "lastChecked": "2022-10-23T00:00:00Z",
+            "lastChecked": "2022-10-24T00:00:00Z",
             "format": "hd",
             "mbps": "5991",
             "URI": [
@@ -12229,7 +12229,7 @@
             "country": "united kingdom",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-10-23T00:00:00Z",
+            "lastChecked": "2022-10-24T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -12285,7 +12285,7 @@
             "country": "united kingdom",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2022-10-23T00:00:00Z",
+            "lastChecked": "2022-10-24T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
@@ -12355,7 +12355,7 @@
             "country": "united kingdom",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-10-23T00:00:00Z",
+            "lastChecked": "2022-10-24T00:00:00Z",
             "format": "hd",
             "mbps": "5020, ...",
             "URI": [
@@ -12383,7 +12383,7 @@
             "country": "united kingdom",
             "liveliness": "98",
             "status": "online",
-            "lastChecked": "2022-10-23T00:00:00Z",
+            "lastChecked": "2022-10-24T00:00:00Z",
             "format": "hd",
             "mbps": "3795, ...",
             "URI": [
@@ -12441,7 +12441,7 @@
             "status": "online",
             "lastChecked": "2022-10-24T00:00:00Z",
             "format": "sd",
-            "mbps": "1509",
+            "mbps": "2285",
             "URI": [
                 "united_kingdom"
             ]
@@ -12467,7 +12467,7 @@
             "country": "united kingdom",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2022-10-23T00:00:00Z",
+            "lastChecked": "2022-10-24T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
@@ -12559,20 +12559,6 @@
             ]
         },
         {
-            "id": "2497241",
-            "channel": "ITV London",
-            "link": "https://list.iptvcat.com/my_list/s/4f8735fa6fd9dee7bbbd7b5dcbdded7c.m3u8",
-            "country": "united kingdom",
-            "liveliness": "99",
-            "status": "online",
-            "lastChecked": "2022-10-24T00:00:00Z",
-            "format": "sd",
-            "mbps": "1736",
-            "URI": [
-                "united_kingdom"
-            ]
-        },
-        {
             "id": "2596131",
             "channel": "ITV London",
             "link": "https://list.iptvcat.com/my_list/s/d909ec1ad87579ff459530aae0847e36.m3u8",
@@ -12582,6 +12568,20 @@
             "lastChecked": "2022-10-24T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
+            "URI": [
+                "united_kingdom"
+            ]
+        },
+        {
+            "id": "2497241",
+            "channel": "ITV London",
+            "link": "https://list.iptvcat.com/my_list/s/4f8735fa6fd9dee7bbbd7b5dcbdded7c.m3u8",
+            "country": "united kingdom",
+            "liveliness": "99",
+            "status": "online",
+            "lastChecked": "2022-10-24T00:00:00Z",
+            "format": "sd",
+            "mbps": "1736",
             "URI": [
                 "united_kingdom"
             ]
@@ -12831,7 +12831,7 @@
             "country": "united kingdom",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-10-23T00:00:00Z",
+            "lastChecked": "2022-10-24T00:00:00Z",
             "format": "hd",
             "mbps": "5991, ...",
             "URI": [
@@ -12861,7 +12861,7 @@
             "status": "online",
             "lastChecked": "2022-10-24T00:00:00Z",
             "format": "hd",
-            "mbps": "4322",
+            "mbps": "4318",
             "URI": [
                 "united_kingdom"
             ]
@@ -12887,7 +12887,7 @@
             "country": "united kingdom",
             "liveliness": "96",
             "status": "online",
-            "lastChecked": "2022-10-23T00:00:00Z",
+            "lastChecked": "2022-10-24T00:00:00Z",
             "format": "hd",
             "mbps": "5991, ...",
             "URI": [
@@ -13195,7 +13195,7 @@
             "country": "united kingdom",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-10-23T00:00:00Z",
+            "lastChecked": "2022-10-24T00:00:00Z",
             "format": "hd",
             "mbps": "4318",
             "URI": [
@@ -13237,7 +13237,7 @@
             "country": "united kingdom",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-10-23T00:00:00Z",
+            "lastChecked": "2022-10-24T00:00:00Z",
             "format": "sd",
             "mbps": "3429",
             "URI": [
@@ -13281,7 +13281,7 @@
             "status": "online",
             "lastChecked": "2022-10-24T00:00:00Z",
             "format": "sd",
-            "mbps": "1353",
+            "mbps": "2334",
             "URI": [
                 "united_kingdom"
             ]
@@ -13293,7 +13293,7 @@
             "country": "united kingdom",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-10-23T00:00:00Z",
+            "lastChecked": "2022-10-24T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -13488,7 +13488,7 @@
             "link": "https://list.iptvcat.com/my_list/s/5f28f7db81fbf8d3cf03049e08a8de37.m3u8",
             "country": "united kingdom",
             "liveliness": "85",
-            "status": "offline",
+            "status": "online",
             "lastChecked": "2022-10-24T00:00:00Z",
             "format": "hd",
             "mbps": "3795, ...",
@@ -13501,11 +13501,11 @@
             "channel": "Midpen Media Center Diversity and Culture Channel 75 (720p)",
             "link": "https://list.iptvcat.com/my_list/s/38010639df5895c1fa5f1c08214329c5.m3u8",
             "country": "united kingdom",
-            "liveliness": "85",
-            "status": "offline",
+            "liveliness": "86",
+            "status": "online",
             "lastChecked": "2022-10-24T00:00:00Z",
             "format": "hd",
-            "mbps": "3795, ...",
+            "mbps": "3188, ...",
             "URI": [
                 "united_kingdom"
             ]
@@ -13516,7 +13516,7 @@
             "link": "https://list.iptvcat.com/my_list/s/717e3fe0189b579532e805b969a3ef6b.m3u8",
             "country": "united kingdom",
             "liveliness": "94",
-            "status": "offline",
+            "status": "online",
             "lastChecked": "2022-10-24T00:00:00Z",
             "format": "hd",
             "mbps": "3795, ...",
@@ -13545,7 +13545,7 @@
             "country": "united kingdom",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-10-23T00:00:00Z",
+            "lastChecked": "2022-10-24T00:00:00Z",
             "format": "hd",
             "mbps": "3188",
             "URI": [
@@ -13572,7 +13572,7 @@
             "link": "https://list.iptvcat.com/my_list/s/5d6e124a28c79fd6630c8d323263bac8.m3u8",
             "country": "united kingdom",
             "liveliness": "82",
-            "status": "online",
+            "status": "offline",
             "lastChecked": "2022-10-24T00:00:00Z",
             "format": "sd",
             "mbps": "2285",
@@ -13630,8 +13630,8 @@
             "liveliness": "85",
             "status": "online",
             "lastChecked": "2022-10-24T00:00:00Z",
-            "format": "fhd 2k",
-            "mbps": "11126",
+            "format": "sd",
+            "mbps": "1509",
             "URI": [
                 "united_kingdom_-_-_-_-_-_-_-_-_-_-"
             ]
@@ -13729,7 +13729,7 @@
             "status": "online",
             "lastChecked": "2022-10-24T00:00:00Z",
             "format": "hd",
-            "mbps": "3188, ...",
+            "mbps": "3188",
             "URI": [
                 "united_kingdom_-_-_-_-_-_-_-_-_-_-"
             ]
@@ -13741,7 +13741,7 @@
             "country": "united kingdom",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2022-10-23T00:00:00Z",
+            "lastChecked": "2022-10-24T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "11126",
             "URI": [
@@ -13861,13 +13861,27 @@
             ]
         },
         {
+            "id": "2585419",
+            "channel": "BBC 1",
+            "link": "https://list.iptvcat.com/my_list/s/77c4a7a66dee2096fc12c9b7be1b8488.m3u8",
+            "country": "united kingdom",
+            "liveliness": "93",
+            "status": "online",
+            "lastChecked": "2022-10-24T00:00:00Z",
+            "format": "fhd 2k",
+            "mbps": "11126",
+            "URI": [
+                "united_kingdom_-_-_-_-_-_-_-_-_-_-"
+            ]
+        },
+        {
             "id": "2497113",
             "channel": "BBC 1",
             "link": "https://list.iptvcat.com/my_list/s/056befbe5137c0a283e7f0b9dd7f60a4.m3u8",
             "country": "united kingdom",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2022-10-23T00:00:00Z",
+            "lastChecked": "2022-10-24T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
@@ -13884,20 +13898,6 @@
             "lastChecked": "2022-10-24T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
-            "URI": [
-                "united_kingdom_-_-_-_-_-_-_-_-_-_-"
-            ]
-        },
-        {
-            "id": "2585419",
-            "channel": "BBC 1",
-            "link": "https://list.iptvcat.com/my_list/s/77c4a7a66dee2096fc12c9b7be1b8488.m3u8",
-            "country": "united kingdom",
-            "liveliness": "93",
-            "status": "online",
-            "lastChecked": "2022-10-24T00:00:00Z",
-            "format": "fhd 2k",
-            "mbps": "11126",
             "URI": [
                 "united_kingdom_-_-_-_-_-_-_-_-_-_-"
             ]
@@ -14091,7 +14091,7 @@
             "country": "united kingdom",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2022-10-23T00:00:00Z",
+            "lastChecked": "2022-10-24T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
@@ -14161,7 +14161,7 @@
             "country": "united kingdom",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-10-23T00:00:00Z",
+            "lastChecked": "2022-10-24T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -14287,7 +14287,7 @@
             "country": "united kingdom",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-10-23T00:00:00Z",
+            "lastChecked": "2022-10-24T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -14385,7 +14385,7 @@
             "country": "united kingdom",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2022-10-23T00:00:00Z",
+            "lastChecked": "2022-10-24T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
@@ -14411,7 +14411,7 @@
             "channel": "BT Sport 2 HD",
             "link": "https://list.iptvcat.com/my_list/s/7123ccd6cffe41c3ce4ed90eb631c7c2.m3u8",
             "country": "united kingdom",
-            "liveliness": "72",
+            "liveliness": "69",
             "status": "offline",
             "lastChecked": "2022-10-24T00:00:00Z",
             "format": "fhd 2k",
@@ -14456,8 +14456,8 @@
             "liveliness": "92",
             "status": "online",
             "lastChecked": "2022-10-24T00:00:00Z",
-            "format": "fhd 2k",
-            "mbps": "13873",
+            "format": "hd",
+            "mbps": "5020",
             "URI": [
                 "united_kingdom_-_-_-_-_-_-_-_-_-_-"
             ]
@@ -14481,11 +14481,11 @@
             "channel": "BT Sport Extra 3",
             "link": "https://list.iptvcat.com/my_list/s/1bbed5a948ecb1663d306f623055607b.m3u8",
             "country": "united kingdom",
-            "liveliness": "90",
+            "liveliness": "91",
             "status": "online",
             "lastChecked": "2022-10-24T00:00:00Z",
-            "format": "fhd 2k",
-            "mbps": "13873",
+            "format": "hd",
+            "mbps": "5020",
             "URI": [
                 "united_kingdom_-_-_-_-_-_-_-_-_-_-"
             ]
@@ -14693,7 +14693,7 @@
             "country": "united kingdom",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-10-23T00:00:00Z",
+            "lastChecked": "2022-10-24T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -14707,7 +14707,7 @@
             "country": "united kingdom",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-10-23T00:00:00Z",
+            "lastChecked": "2022-10-24T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
@@ -14833,7 +14833,7 @@
             "country": "united kingdom",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-10-23T00:00:00Z",
+            "lastChecked": "2022-10-24T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -14847,7 +14847,7 @@
             "country": "united kingdom",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-10-23T00:00:00Z",
+            "lastChecked": "2022-10-24T00:00:00Z",
             "format": "hd",
             "mbps": "5991, ...",
             "URI": [
@@ -14959,7 +14959,7 @@
             "country": "united kingdom",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2022-10-23T00:00:00Z",
+            "lastChecked": "2022-10-24T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
@@ -15028,7 +15028,7 @@
             "link": "https://list.iptvcat.com/my_list/s/4009e225ab7a45f4c081ea60b785857e.m3u8",
             "country": "united kingdom",
             "liveliness": "97",
-            "status": "offline",
+            "status": "online",
             "lastChecked": "2022-10-24T00:00:00Z",
             "format": "sd",
             "mbps": "1509",
@@ -15057,7 +15057,7 @@
             "country": "united kingdom",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2022-10-23T00:00:00Z",
+            "lastChecked": "2022-10-24T00:00:00Z",
             "format": "hd",
             "mbps": "4318, ...",
             "URI": [
@@ -15268,8 +15268,8 @@
             "liveliness": "100",
             "status": "online",
             "lastChecked": "2022-10-24T00:00:00Z",
-            "format": "hd",
-            "mbps": "11126, ...",
+            "format": "sd",
+            "mbps": "2883",
             "URI": [
                 "united_kingdom_-_-_-_-_-_-_-_-_-_-"
             ]
@@ -15297,7 +15297,7 @@
             "status": "online",
             "lastChecked": "2022-10-24T00:00:00Z",
             "format": "sd",
-            "mbps": "1702",
+            "mbps": "1706",
             "URI": [
                 "united_kingdom_-_-_-_-_-_-_-_-_-_-"
             ]
@@ -15351,7 +15351,7 @@
             "country": "united kingdom",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2022-10-23T00:00:00Z",
+            "lastChecked": "2022-10-24T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
@@ -15485,20 +15485,6 @@
             ]
         },
         {
-            "id": "2585561",
-            "channel": "DISNEY CHANNEL",
-            "link": "https://list.iptvcat.com/my_list/s/09af125ed25ccbb25f5f1b7be9ca3c03.m3u8",
-            "country": "united kingdom",
-            "liveliness": "95",
-            "status": "online",
-            "lastChecked": "2022-10-24T00:00:00Z",
-            "format": "hd",
-            "mbps": "5991",
-            "URI": [
-                "united_kingdom_-_-_-_-_-_-_-_-_-_-"
-            ]
-        },
-        {
             "id": "2497185",
             "channel": "DISNEY CHANNEL",
             "link": "https://list.iptvcat.com/my_list/s/ce6fe9d17ab73b79c1616b0e4b4f1c34.m3u8",
@@ -15508,6 +15494,20 @@
             "lastChecked": "2022-10-24T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
+            "URI": [
+                "united_kingdom_-_-_-_-_-_-_-_-_-_-"
+            ]
+        },
+        {
+            "id": "2585561",
+            "channel": "DISNEY CHANNEL",
+            "link": "https://list.iptvcat.com/my_list/s/09af125ed25ccbb25f5f1b7be9ca3c03.m3u8",
+            "country": "united kingdom",
+            "liveliness": "95",
+            "status": "online",
+            "lastChecked": "2022-10-24T00:00:00Z",
+            "format": "hd",
+            "mbps": "5991",
             "URI": [
                 "united_kingdom_-_-_-_-_-_-_-_-_-_-"
             ]
@@ -15603,7 +15603,7 @@
             "country": "united kingdom",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-10-23T00:00:00Z",
+            "lastChecked": "2022-10-24T00:00:00Z",
             "format": "hd",
             "mbps": "3188, ...",
             "URI": [
@@ -15771,7 +15771,7 @@
             "country": "united kingdom",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-10-23T00:00:00Z",
+            "lastChecked": "2022-10-24T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -15813,7 +15813,7 @@
             "country": "united kingdom",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2022-10-23T00:00:00Z",
+            "lastChecked": "2022-10-24T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
@@ -15827,7 +15827,7 @@
             "country": "united kingdom",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-10-23T00:00:00Z",
+            "lastChecked": "2022-10-24T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -15855,7 +15855,7 @@
             "country": "united kingdom",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-10-23T00:00:00Z",
+            "lastChecked": "2022-10-24T00:00:00Z",
             "format": "hd",
             "mbps": "5020, ...",
             "URI": [
@@ -15868,7 +15868,7 @@
             "link": "https://list.iptvcat.com/my_list/s/9773ee0c3d55acd8f063e87926217e20.m3u8",
             "country": "united kingdom",
             "liveliness": "91",
-            "status": "offline",
+            "status": "online",
             "lastChecked": "2022-10-24T00:00:00Z",
             "format": "sd",
             "mbps": "6023",
@@ -15925,7 +15925,7 @@
             "country": "united kingdom",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-10-23T00:00:00Z",
+            "lastChecked": "2022-10-24T00:00:00Z",
             "format": "sd",
             "mbps": "3262",
             "URI": [
@@ -16008,7 +16008,7 @@
             "link": "https://list.iptvcat.com/my_list/s/fabbe3ee39e4d856437ee0ee4264f30c.m3u8",
             "country": "united kingdom",
             "liveliness": "64",
-            "status": "offline",
+            "status": "online",
             "lastChecked": "2022-10-24T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "13311",
@@ -16037,7 +16037,7 @@
             "country": "united kingdom",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2022-10-23T00:00:00Z",
+            "lastChecked": "2022-10-24T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
@@ -16053,7 +16053,7 @@
             "status": "online",
             "lastChecked": "2022-10-24T00:00:00Z",
             "format": "sd",
-            "mbps": "1509",
+            "mbps": "2285",
             "URI": [
                 "united_kingdom_-_-_-_-_-_-_-_-_-_-"
             ]
@@ -16191,7 +16191,7 @@
             "country": "united kingdom",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-10-23T00:00:00Z",
+            "lastChecked": "2022-10-24T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -16275,7 +16275,7 @@
             "country": "united kingdom",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-10-23T00:00:00Z",
+            "lastChecked": "2022-10-24T00:00:00Z",
             "format": "hd",
             "mbps": "5997, ...",
             "URI": [
@@ -16317,7 +16317,7 @@
             "country": "united kingdom",
             "liveliness": "98",
             "status": "online",
-            "lastChecked": "2022-10-23T00:00:00Z",
+            "lastChecked": "2022-10-24T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
@@ -16345,7 +16345,7 @@
             "country": "united kingdom",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-10-23T00:00:00Z",
+            "lastChecked": "2022-10-24T00:00:00Z",
             "format": "hd",
             "mbps": "3188",
             "URI": [
@@ -16372,7 +16372,7 @@
             "link": "https://list.iptvcat.com/my_list/s/5d6e124a28c79fd6630c8d323263bac8.m3u8",
             "country": "united kingdom",
             "liveliness": "82",
-            "status": "online",
+            "status": "offline",
             "lastChecked": "2022-10-24T00:00:00Z",
             "format": "sd",
             "mbps": "2285",
@@ -16430,8 +16430,8 @@
             "liveliness": "85",
             "status": "online",
             "lastChecked": "2022-10-24T00:00:00Z",
-            "format": "fhd 2k",
-            "mbps": "11126",
+            "format": "sd",
+            "mbps": "1509",
             "URI": [
                 "united_kingdom_-_-_-_-_-_-_-_-_-_-"
             ]
@@ -16529,7 +16529,7 @@
             "status": "online",
             "lastChecked": "2022-10-24T00:00:00Z",
             "format": "hd",
-            "mbps": "3188, ...",
+            "mbps": "3188",
             "URI": [
                 "united_kingdom_-_-_-_-_-_-_-_-_-_-"
             ]
@@ -16541,7 +16541,7 @@
             "country": "united kingdom",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2022-10-23T00:00:00Z",
+            "lastChecked": "2022-10-24T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "11126",
             "URI": [
@@ -16661,13 +16661,27 @@
             ]
         },
         {
+            "id": "2585419",
+            "channel": "BBC 1",
+            "link": "https://list.iptvcat.com/my_list/s/77c4a7a66dee2096fc12c9b7be1b8488.m3u8",
+            "country": "united kingdom",
+            "liveliness": "93",
+            "status": "online",
+            "lastChecked": "2022-10-24T00:00:00Z",
+            "format": "fhd 2k",
+            "mbps": "11126",
+            "URI": [
+                "united_kingdom_-_-_-_-_-_-_-_-_-_-"
+            ]
+        },
+        {
             "id": "2497113",
             "channel": "BBC 1",
             "link": "https://list.iptvcat.com/my_list/s/056befbe5137c0a283e7f0b9dd7f60a4.m3u8",
             "country": "united kingdom",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2022-10-23T00:00:00Z",
+            "lastChecked": "2022-10-24T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
@@ -16684,20 +16698,6 @@
             "lastChecked": "2022-10-24T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
-            "URI": [
-                "united_kingdom_-_-_-_-_-_-_-_-_-_-"
-            ]
-        },
-        {
-            "id": "2585419",
-            "channel": "BBC 1",
-            "link": "https://list.iptvcat.com/my_list/s/77c4a7a66dee2096fc12c9b7be1b8488.m3u8",
-            "country": "united kingdom",
-            "liveliness": "93",
-            "status": "online",
-            "lastChecked": "2022-10-24T00:00:00Z",
-            "format": "fhd 2k",
-            "mbps": "11126",
             "URI": [
                 "united_kingdom_-_-_-_-_-_-_-_-_-_-"
             ]
@@ -16891,7 +16891,7 @@
             "country": "united kingdom",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2022-10-23T00:00:00Z",
+            "lastChecked": "2022-10-24T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
@@ -16961,7 +16961,7 @@
             "country": "united kingdom",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-10-23T00:00:00Z",
+            "lastChecked": "2022-10-24T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -17087,7 +17087,7 @@
             "country": "united kingdom",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-10-23T00:00:00Z",
+            "lastChecked": "2022-10-24T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -17185,7 +17185,7 @@
             "country": "united kingdom",
             "liveliness": "99",
             "status": "online",
-            "lastChecked": "2022-10-23T00:00:00Z",
+            "lastChecked": "2022-10-24T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
@@ -17211,7 +17211,7 @@
             "channel": "BT Sport 2 HD",
             "link": "https://list.iptvcat.com/my_list/s/7123ccd6cffe41c3ce4ed90eb631c7c2.m3u8",
             "country": "united kingdom",
-            "liveliness": "72",
+            "liveliness": "69",
             "status": "offline",
             "lastChecked": "2022-10-24T00:00:00Z",
             "format": "fhd 2k",
@@ -17256,8 +17256,8 @@
             "liveliness": "92",
             "status": "online",
             "lastChecked": "2022-10-24T00:00:00Z",
-            "format": "fhd 2k",
-            "mbps": "13873",
+            "format": "hd",
+            "mbps": "5020",
             "URI": [
                 "united_kingdom_-_-_-_-_-_-_-_-_-_-"
             ]
@@ -17281,11 +17281,11 @@
             "channel": "BT Sport Extra 3",
             "link": "https://list.iptvcat.com/my_list/s/1bbed5a948ecb1663d306f623055607b.m3u8",
             "country": "united kingdom",
-            "liveliness": "90",
+            "liveliness": "91",
             "status": "online",
             "lastChecked": "2022-10-24T00:00:00Z",
-            "format": "fhd 2k",
-            "mbps": "13873",
+            "format": "hd",
+            "mbps": "5020",
             "URI": [
                 "united_kingdom_-_-_-_-_-_-_-_-_-_-"
             ]
@@ -17493,7 +17493,7 @@
             "country": "united kingdom",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-10-23T00:00:00Z",
+            "lastChecked": "2022-10-24T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -17507,7 +17507,7 @@
             "country": "united kingdom",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-10-23T00:00:00Z",
+            "lastChecked": "2022-10-24T00:00:00Z",
             "format": "sd",
             "mbps": "1736",
             "URI": [
@@ -17633,7 +17633,7 @@
             "country": "united kingdom",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-10-23T00:00:00Z",
+            "lastChecked": "2022-10-24T00:00:00Z",
             "format": "fhd 2k",
             "mbps": "7004",
             "URI": [
@@ -17647,7 +17647,7 @@
             "country": "united kingdom",
             "liveliness": "100",
             "status": "online",
-            "lastChecked": "2022-10-23T00:00:00Z",
+            "lastChecked": "2022-10-24T00:00:00Z",
             "format": "hd",
             "mbps": "5991, ...",
             "URI": [
